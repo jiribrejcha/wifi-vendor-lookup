@@ -6,7 +6,9 @@ List of BSSID OUIs and matching Wi-Fi vendor names in CSV format.
 
 # Format
 First column - OUI with no separators, including leading zeros
+
 Second column - Vendor name
+
 Third column - Source of data
 
 # Sources - third column explained
