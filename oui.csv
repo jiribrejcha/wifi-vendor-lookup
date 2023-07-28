@@ -1,4 +1,3 @@
-E6:CB:AC,Cisco Meraki,Vendor
 AA:BB:CC,Vendor A,Field
 CC:DD:EE,Vendor B,Wireshark
 00:00:00,Officially Xerox often used elsewhere,Wireshark
@@ -498,3 +497,4 @@ CC:DD:EE,Vendor B,Wireshark
 00:01:EE,Comtrol Europe Ltd.,Wireshark
 00:01:EF,Camtel Technology Corp.,Wireshark
 00:01:F0,Tridium Inc.,Wireshark
+E6:CB:AC,Cisco Meraki,Vendor
