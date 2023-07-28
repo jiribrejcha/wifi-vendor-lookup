@@ -1,3 +1,4 @@
+# Currently has all Wireshark entries as of 28 July 2023
 00:00:00,Officially Xerox often used elsewhere,Wireshark
 00:00:01,Xerox Corporation,Wireshark
 00:00:02,Xerox Corporation,Wireshark
@@ -7,7 +8,7 @@
 00:00:06,Xerox Corporation,Wireshark
 00:00:07,Xerox Corporation,Wireshark
 00:00:08,Xerox Corporation,Wireshark
-00:00:09,powerpipes?,Wireshark
+00:00:09,Powerpipes,Wireshark
 00:00:0A,Omron Tateisi Electronics Co.,Wireshark
 00:00:0B,Matrix Corporation,Wireshark
 00:00:0C,Cisco Systems Inc,Wireshark
@@ -22,7 +23,7 @@
 00:00:15,Datapoint Corporation,Wireshark
 00:00:16,Du Pont Pixel Systems.,Wireshark
 00:00:17,Oracle,Wireshark
-00:00:18,# Appletalk/Ethernet Gateway,Wireshark
+00:00:18,Appletalk/Ethernet Gateway,Wireshark
 00:00:19,Applied Dynamics International,Wireshark
 00:00:1A,Advanced Micro Devices,Wireshark
 00:00:1B,Novell (now Eagle Technology),Wireshark
@@ -117,16 +118,16 @@
 00:00:74,Ricoh Company Ltd.,Wireshark
 00:00:75,Bell Northern Research (BNR),Wireshark
 00:00:76,Abekas Video System,Wireshark
-00:00:77,# [Used in other systems e.g. MIPS Motorola],Wireshark
+00:00:77,Used in other systems e.g. MIPS Motorola,Wireshark
 00:00:78,Labtam Limited,Wireshark
-00:00:79,# [bought by Compaq used in Netelligent series],Wireshark
+00:00:79,Bought by Compaq used in Netelligent series,Wireshark
 00:00:7A,Dana Computer Inc.,Wireshark
 00:00:7B,Research Machines,Wireshark
 00:00:7C,Ampere Incorporated,Wireshark
 00:00:7D,Oracle Corporation,Wireshark
 00:00:7E,Clustrix Corporation,Wireshark
 00:00:7F,# Linotronic typesetters,Wireshark
-00:00:80,# [Also shows as "Harris (3M) (new)" and/or "Imagen(?)" elsewhere],Wireshark
+00:00:80,Harris 3M or Imagen elsewhere,Wireshark
 00:00:81,Bay Networks,Wireshark
 00:00:82,Lectra Systemes Sa,Wireshark
 00:00:83,Tadpole Technology [had Optical Data Systems which is wrong according to both],Wireshark
@@ -181,11 +182,11 @@
 00:00:B4,Edimax Technology Co. Ltd.,Wireshark
 00:00:B5,# Terminal Servers,Wireshark
 00:00:B6,Micro-Matic Research,Wireshark
-00:00:B7,# Fastnet,Wireshark
+00:00:B7,Fastnet,Wireshark
 00:00:B8,Seikosha Co. Ltd.,Wireshark
 00:00:B9,Mcdonnell Douglas Computer Sys,Wireshark
 00:00:BA,Siig Inc.,Wireshark
-00:00:BB,# Netway products 3274 emulators,Wireshark
+00:00:BB,Netway products 3274 emulators,Wireshark
 00:00:BC,Rockwell Automation,Wireshark
 00:00:BD,RYOSEI Ltd.,Wireshark
 00:00:BE,The Nti Group,Wireshark
@@ -199,7 +200,7 @@
 00:00:C6,HP Intelligent Networks Operation (formerly Eon Systems),Wireshark
 00:00:C7,Arix Corporation,Wireshark
 00:00:C8,Altos Computer Systems,Wireshark
-00:00:C9,# Terminal Servers Print Servers,Wireshark
+00:00:C9,Terminal Servers Print Servers,Wireshark
 00:00:CA,ARRIS Group Inc.,Wireshark
 00:00:CB,Compu-Shack Electronic Gmbh,Wireshark
 00:00:CC,Densan Co. Ltd.,Wireshark
