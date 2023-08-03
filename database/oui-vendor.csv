@@ -1055,6 +1055,26 @@ FC:58:9A,Cisco Systems Inc,Wireshark
 FC:5B:39,Cisco Systems Inc,Wireshark
 FC:99:47,Cisco Systems Inc,Wireshark
 FC:FB:FB,Cisco Systems Inc,Wireshark
+E8:0A:B9,Cisco Systems Inc,Wireshark
+48:1B:A4,Cisco Systems Inc,Wireshark
+6C:03:B5,Cisco Systems Inc,Wireshark
+CC:D3:42,Cisco Systems Inc,Wireshark
+18:F9:35,Cisco Systems Inc,Wireshark
+58:8B:1C,Cisco Systems Inc,Wireshark
+D0:DC:2C,Cisco Systems Inc,Wireshark
+08:7B:87,Cisco Systems Inc,Wireshark
+C4:7E:E0,Cisco Systems Inc,Wireshark
+BC:8D:1F,Cisco Systems Inc,Wireshark
+68:E5:9E,Cisco Systems Inc,Wireshark
+F8:C6:50,Cisco Systems Inc,Wireshark
+60:B9:C0,Cisco Systems Inc,Wireshark
+8C:94:61,Cisco Systems Inc,Wireshark
+68:79:09,Cisco Systems Inc,Wireshark
+E4:A4:1C,Cisco Systems Inc,Wireshark
+9C:E3:30,Cisco Meraki,Wireshark
+B4:DF:91,Cisco Meraki,Wireshark
+E0:D3:B4,Cisco Meraki,Wireshark
+C4:14:A2,Cisco Meraki,Wireshark
 00:18:0A,Cisco Meraki,Documentation
 06:18:0A,Cisco Meraki,Documentation
 0A:18:0A,Cisco Meraki,Documentation
@@ -1237,6 +1257,12 @@ CC:03:D9,Cisco Meraki,Wireshark
 CC:9C:3E,Cisco Meraki,Wireshark
 E4:55:A8,Cisco Meraki,Wireshark
 F8:9E:28,Cisco Meraki,Wireshark
+4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
+98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
+A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
+48:00:20,Aruba a Hewlett Packard Enterprise Company,Wireshark
+E4:DE:40,Aruba a Hewlett Packard Enterprise Company,Wireshark
+50:E4:E0,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:0B:86,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:1A:1E,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:24:6C,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -1312,8 +1338,582 @@ F0:61:C0,Aruba a Hewlett Packard Enterprise Company,Wireshark
 F4:2E:7F,Aruba a Hewlett Packard Enterprise Company,Wireshark
 F8:60:F0,Aruba a Hewlett Packard Enterprise Company,Wireshark
 FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
-74:83:C2,Ubiquiti Inc,Wireshark
-80:2A:A8,Ubiquiti Inc,Wireshark
+A4:73:AB,Extreme Networks Headquarters,Wireshark
+0C:9B:78,Extreme Networks Headquarters,Wireshark
+C8:51:FB,Extreme Networks Headquarters,Wireshark
+DC:23:3B,Extreme Networks Headquarters,Wireshark
+AC:ED:32,Extreme Networks Headquarters,Wireshark
+40:E3:17,Extreme Networks Headquarters,Wireshark
+18:49:F8,Extreme Networks Headquarters,Wireshark
+80:95:62,Extreme Networks Headquarters,Wireshark
+F4:54:24,Extreme Networks Headquarters,Wireshark
+F0:2B:7C,Extreme Networks Headquarters,Wireshark
+E4:F2:7C,Juniper Networks,Wireshark
+60:C7:8D,Juniper Networks,Wireshark
+BC:0F:FE,Juniper Networks,Wireshark
+2C:4C:15,Juniper Networks,Wireshark
+00:E6:3A,Ruckus Wireless,Wireshark
+80:F0:CF,Ruckus Wireless,Wireshark
+2C:AB:46,Ruckus Wireless,Wireshark
+A8:0B:FB,Ruckus Wireless,Wireshark
+30:7A:57,Accuenergy (CANADA) Inc,Wireshark
+70:58:A4,Actiontec Electronics Inc.,Wireshark
+D8:09:4E,Active Brains,Wireshark
+DC:EE:14,ADT Technology,Wireshark
+90:6C:4B,Advance Security Electronics,Wireshark
+00:39:69,Air-Weigh Incorporated,Wireshark
+50:40:74,Alarm.com,Wireshark
+C8:70:23,Altice Labs S.A.,Wireshark
+6C:22:1A,AltoBeam Inc.,Wireshark
+DC:A0:D0,Amazon Technologies Inc.,Wireshark
+F0:2F:9E,Amazon Technologies Inc.,Wireshark
+00:65:1E,Amcrest Technologies,Wireshark
+60:FD:A6,Apple Inc.,Wireshark
+80:A9:97,Apple Inc.,Wireshark
+34:8C:5E,Apple Inc.,Wireshark
+F0:EE:7A,Apple Inc.,Wireshark
+58:AD:12,Apple Inc.,Wireshark
+50:A6:D8,Apple Inc.,Wireshark
+68:CA:C4,Apple Inc.,Wireshark
+D4:0F:9E,Apple Inc.,Wireshark
+98:0D:AF,Apple Inc.,Wireshark
+DC:6D:BC,Apple Inc.,Wireshark
+A4:D2:3E,Apple Inc.,Wireshark
+30:E0:4F,Apple Inc.,Wireshark
+90:2C:09,Apple Inc.,Wireshark
+A0:B4:0F,Apple Inc.,Wireshark
+EC:0D:51,Apple Inc.,Wireshark
+AC:DF:A1,Apple Inc.,Wireshark
+20:91:DF,Apple Inc.,Wireshark
+A8:9C:78,Apple Inc.,Wireshark
+7C:61:30,Apple Inc.,Wireshark
+80:B9:89,Apple Inc.,Wireshark
+C4:52:4F,Apple Inc.,Wireshark
+60:3E:5F,Apple Inc.,Wireshark
+DC:10:57,Apple Inc.,Wireshark
+30:D8:75,Apple Inc.,Wireshark
+68:3E:C0,Apple Inc.,Wireshark
+F8:E5:CE,Apple Inc.,Wireshark
+A4:F8:41,Apple Inc.,Wireshark
+A0:52:72,Apple Inc.,Wireshark
+34:B1:EB,Apple Inc.,Wireshark
+20:04:84,Apple Inc.,Wireshark
+38:9C:B2,Apple Inc.,Wireshark
+58:36:53,Apple Inc.,Wireshark
+84:D3:28,Apple Inc.,Wireshark
+28:83:C9,Apple Inc.,Wireshark
+18:3F:70,Apple Inc.,Wireshark
+A4:F6:E8,Apple Inc.,Wireshark
+64:41:E6,Apple Inc.,Wireshark
+70:BB:5B,Apple Inc.,Wireshark
+74:0E:A4,Apple Inc.,Wireshark
+60:57:C8,Apple Inc.,Wireshark
+44:1D:B1,APTIV SERVICES US LLC,Wireshark
+04:09:86,Arcadyan Corporation,Wireshark
+18:A5:FF,Arcadyan Corporation,Wireshark
+DC:F5:1B,Arcadyan Corporation,Wireshark
+8C:83:94,Arcadyan Corporation,Wireshark
+E4:78:76,Arista Networks,Wireshark
+CC:1A:A3,Arista Networks,Wireshark
+38:92:2E,ArrayComm,Wireshark
+C8:A3:62,ASIX Electronics Corporation,Wireshark
+A0:22:52,Astra Wireless Technology FZ-LLC,Wireshark
+E8:9C:25,ASUSTek COMPUTER INC.,Wireshark
+6C:A3:67,Avlinkpro,Wireshark
+50:FE:0C,AzureWave Technology Inc.,Wireshark
+20:0B:74,AzureWave Technology Inc.,Wireshark
+18:44:CF,B+L Industrial Measurements GmbH,Wireshark
+88:2F:64,BCOM Networks Limited,Wireshark
+A4:A9:30,Beijing Xiaomi Mobile Software Co. Ltd,Wireshark
+C4:93:BB,Beijing Xiaomi Mobile Software Co. Ltd,Wireshark
+E8:4A:54,Beijing Xiaomi Mobile Software Co. Ltd,Wireshark
+4C:C6:4C,Beijing Xiaomi Mobile Software Co. Ltd,Wireshark
+58:D8:A7,Bird Home Automation GmbH,Wireshark
+BC:87:FA,Bose Corporation,Wireshark
+B4:C2:E0,Bouffalo Lab (Nanjing) Co. Ltd.,Wireshark
+28:BB:ED,Bouffalo Lab (Nanjing) Co. Ltd.,Wireshark
+F0:F8:4A,BUFFALO.INC,Wireshark
+4C:43:41,Calix Inc.,Wireshark
+E4:6C:D1,Calix Inc.,Wireshark
+6C:6E:07,CE LINK LIMITED,Wireshark
+A8:B8:E0,Changwang Technology inc.,Wireshark
+A8:99:AD,Chaoyue Technology Co. Ltd.,Wireshark
+A8:43:A4,China Dragon Technology Limited,Wireshark
+DC:7C:F7,China Mobile Group Device Co.Ltd.,Wireshark
+EC:E7:C2,China Mobile Group Device Co.Ltd.,Wireshark
+C8:0C:53,China Mobile Group Device Co.Ltd.,Wireshark
+04:38:DC,China Unicom Online Information Technology Co.Ltd,Wireshark
+D8:E7:2F,Chipsea Technologies (Shenzhen) Corp.,Wireshark
+B4:56:5D,Chipsea Technologies (Shenzhen) Corp.,Wireshark
+A0:77:9E,Chipsea Technologies (Shenzhen) Corp.,Wireshark
+30:60:0A,CIG SHANGHAI CO LTD,Wireshark
+C4:E7:33,Clear Align LLC,Wireshark
+2C:9C:58,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,Wireshark
+3C:0A:F3,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,Wireshark
+78:46:5C,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,Wireshark
+EC:91:61,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,Wireshark
+50:D3:3B,cloudnineinfo,Wireshark
+D0:44:33,Clourney Semiconductor,Wireshark
+64:4C:69,CONPROVE,Wireshark
+2C:BA:CA,Cosonic Electroacoustic Technology Co. Ltd.,Wireshark
+E8:9E:13,CRESYN,Wireshark
+78:F2:76,Cyklop Fastjet Technologies (Shanghai) Inc.,Wireshark
+40:86:CB,D-Link Corporation,Wireshark
+4C:D7:17,Dell Inc.,Wireshark
+0C:01:C8,DENSO Co.Ltd,Wireshark
+2C:45:9A,Dixon Technologies (India) Limited,Wireshark
+9C:49:52,Dongguan Liesheng Electronic Co. Ltd.,Wireshark
+B0:4F:A6,DongGuan Ramaxel Memory Technology,Wireshark
+18:65:C7,Dongguan YIMO Technology Co.LTD,Wireshark
+40:36:68,E&B TELECOM,Wireshark
+90:2D:77,Edgecore Americas Networking Corporation,Wireshark
+CC:14:BC,Edifier International,Wireshark
+08:F0:1E,eero inc.,Wireshark
+64:DA:ED,eero inc.,Wireshark
+E8:D3:EB,eero inc.,Wireshark
+7C:49:CF,eero inc.,Wireshark
+90:9E:24,ekey biometric systems gmbh,Wireshark
+D4:A3:8B,ELE(GROUP)CO.LTD,Wireshark
+50:F2:22,EM Microelectronic,Wireshark
+5C:53:B4,EM Microelectronic,Wireshark
+60:2B:58,EM Microelectronic,Wireshark
+10:9D:9C,EM Microelectronic,Wireshark
+48:83:6F,EM Microelectronic,Wireshark
+EC:B0:D2,EM Microelectronic,Wireshark
+00:EE:01,Enablers Solucoes e Consultoria em Dispositivos,Wireshark
+E4:0D:3B,Ericsson AB,Wireshark
+F4:3C:96,Ericsson AB,Wireshark
+10:06:1C,Espressif Inc.,Wireshark
+D4:8A:FC,Espressif Inc.,Wireshark
+E4:65:B8,Espressif Inc.,Wireshark
+FC:B4:67,Espressif Inc.,Wireshark
+D8:BC:38,Espressif Inc.,Wireshark
+7C:73:98,Espressif Inc.,Wireshark
+6C:B4:56,Espressif Inc.,Wireshark
+30:30:F9,Espressif Inc.,Wireshark
+C8:2E:18,Espressif Inc.,Wireshark
+E8:6B:EA,Espressif Inc.,Wireshark
+08:D1:F9,Espressif Inc.,Wireshark
+34:B7:DA,Espressif Inc.,Wireshark
+74:4D:BD,Espressif Inc.,Wireshark
+DC:DA:0C,Espressif Inc.,Wireshark
+EC:AB:3E,ESSYS,Wireshark
+E0:4C:05,EverCharge,Wireshark
+44:D9:80,EVERYBOT INC.,Wireshark
+38:F6:ED,EVK DI Kerschhaggl GmbH,Wireshark
+78:46:5F,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+7C:FC:FD,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+5C:7D:F3,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+68:DE:CE,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+B0:10:4B,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+98:ED:CA,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+90:83:7E,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+CC:B0:71,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+3C:10:60,Fiberhome Telecommunication Technologies Co.LTD,Wireshark
+10:E8:3A,FIBERX DISTRIBUIDORA DE PRODUTOS DE TELECOMUNICACAO LTDA,Wireshark
+9C:89:1E,FireBrick Ltd,Wireshark
+98:39:C0,FLEXTRONICS,Wireshark
+70:36:B2,Focusai Corp,Wireshark
+74:78:A6,Fortinet Inc.,Wireshark
+38:C0:EA,Fortinet Inc.,Wireshark
+98:AB:15,Fujian Youyike Technology Co.Ltd,Wireshark
+38:F9:F5,Garmin International,Wireshark
+44:35:D3,GD Midea Air-Conditioning Equipment Co.Ltd.,Wireshark
+B0:96:EA,GD Midea Air-Conditioning Equipment Co.Ltd.,Wireshark
+D4:41:3F,Gen IV Technology LLC,Wireshark
+94:3F:0C,Genexis B.V.,Wireshark
+10:FF:E0,GIGA-BYTE TECHNOLOGY CO.LTD.,Wireshark
+6C:FB:ED,GN Audio A/S,Wireshark
+B8:B7:DB,GOIP Global Services Pvt. Ltd.,Wireshark
+94:45:60,Google Inc.,Wireshark
+5C:33:7B,Google Inc.,Wireshark
+E8:B7:22,GreenTrol Automation ,Wireshark
+14:C0:50,GUANGDONG GENIUS TECHNOLOGY CO. LTD.,Wireshark
+E4:40:97,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.LTD,Wireshark
+DC:B4:CA,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.LTD,Wireshark
+48:C4:61,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.LTD,Wireshark
+E4:E2:6C,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.LTD,Wireshark
+10:71:FA,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.LTD,Wireshark
+48:35:43,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.LTD,Wireshark
+1C:86:0B,Guangdong Taiying Technology Co.Ltd,Wireshark
+90:E4:68,Guangzhou Shiyuan Electronic Technology Company Limited,Wireshark
+E8:51:9E,Guangzhou Shiyuan Electronic Technology Company Limited,Wireshark
+6C:68:A4,Guangzhou V-Solution Telecommunication Technology Co.Ltd.,Wireshark
+D0:CE:C9,HAN CHANG,Wireshark
+E8:70:72,Hangzhou BroadLink Technology Co.Ltd,Wireshark
+20:BB:BC,Hangzhou Ezviz Software Co.Ltd.,Wireshark
+0C:75:D2,Hangzhou Hikvision Digital Technology Co.Ltd.,Wireshark
+80:F5:AE,Hangzhou Hikvision Digital Technology Co.Ltd.,Wireshark
+18:80:25,Hangzhou Hikvision Digital Technology Co.Ltd.,Wireshark
+4C:62:DF,Hangzhou Hikvision Digital Technology Co.Ltd.,Wireshark
+E0:DF:13,Hangzhou Hikvision Digital Technology Co.Ltd.,Wireshark
+F8:F0:9D,Hangzhou Prevail Communication Technology Co. Ltd,Wireshark
+9C:F5:5F,Harman/Becker Automotive Systems GmbH,Wireshark
+F8:09:A4,Henan Thinker Rail Transportation Research Inc.,Wireshark
+B8:6C:E0,Hewlett Packard Enterprise,Wireshark
+28:FF:5F,HG Genuine Intelligent Terminal (Xiaogan) Co.Ltd.,Wireshark
+38:AD:2B,Hitron Technologies. Inc,Wireshark
+A4:BD:7E,HMD Global Oy,Wireshark
+F8:21:11,HMD Global Oy,Wireshark
+D0:F4:05,Hon Hai Precision Industry Co. Ltd.,Wireshark
+0C:B9:83,Honor Device Co. Ltd.,Wireshark
+2C:B3:01,Honor Device Co. Ltd.,Wireshark
+EC:53:82,Honor Device Co. Ltd.,Wireshark
+1C:C9:92,Honor Device Co. Ltd.,Wireshark
+64:4E:D7,HP Inc.,Wireshark
+BC:0F:F3,HP Inc.,Wireshark
+94:15:B2,Huawei Device Co. Ltd.,Wireshark
+14:DA:B9,Huawei Device Co. Ltd.,Wireshark
+B0:CA:E7,Huawei Device Co. Ltd.,Wireshark
+50:A1:F3,Huawei Device Co. Ltd.,Wireshark
+F8:7D:3F,Huawei Device Co. Ltd.,Wireshark
+90:A5:7D,Huawei Device Co. Ltd.,Wireshark
+20:6B:F4,Huawei Device Co. Ltd.,Wireshark
+E8:2B:C5,Huawei Device Co. Ltd.,Wireshark
+44:A0:38,Huawei Device Co. Ltd.,Wireshark
+08:27:6B,Huawei Device Co. Ltd.,Wireshark
+E0:06:30,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+D8:DA:F1,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+54:44:3B,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+5C:70:75,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+74:9B:89,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+28:31:F8,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+C4:AA:99,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+BC:18:96,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+90:64:AD,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+D4:D8:92,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+98:D3:D7,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+88:6E:EB,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+A8:7C:45,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+2C:ED:B0,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+2C:69:3E,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+DC:62:1F,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+08:70:73,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+44:C3:B6,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+E8:F7:2F,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+D0:94:CF,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+54:22:59,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+04:14:71,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+08:23:C6,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+FC:51:B5,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+00:F9:52,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+2C:15:D9,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+D4:A9:23,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+3C:C0:3E,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+D0:D7:BE,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+3C:13:BB,HUAWEI TECHNOLOGIES CO.LTD,Wireshark
+E0:01:C7,Hui Zhou Gaoshengda Technology Co.LTD,Wireshark
+84:C8:A0,Hui Zhou Gaoshengda Technology Co.LTD,Wireshark
+64:57:25,Hui Zhou Gaoshengda Technology Co.LTD,Wireshark
+90:D0:92,HUMAX Co. Ltd.,Wireshark
+54:F2:9F,HUNAN FN-LINK TECHNOLOGY LIMITED,Wireshark
+C8:CC:B5,Hunter Douglas,Wireshark
+B8:4C:87,IEEE Registration Authority,Wireshark
+48:DA:35,IEEE Registration Authority,Wireshark
+58:C4:1E,IEEE Registration Authority,Wireshark
+4C:EA:41,IEEE Registration Authority,Wireshark
+D0:15:BB,IEEE Registration Authority,Wireshark
+50:48:2C,IEEE Registration Authority,Wireshark
+BC:31:98,IEEE Registration Authority,Wireshark
+68:DA:73,IEEE Registration Authority,Wireshark
+C0:22:F1,IEEE Registration Authority,Wireshark
+88:A6:EF,IEEE Registration Authority,Wireshark
+C8:6B:BC,IEEE Registration Authority,Wireshark
+C8:5C:E2,IEEE Registration Authority,Wireshark
+54:91:AF,IEEE Registration Authority,Wireshark
+F4:B6:C6,Indra Heera Technology LLP,Wireshark
+A4:94:DC,Infinite Clouds,Wireshark
+44:E7:61,Infinix mobility limited,Wireshark
+54:C0:78,Infinix mobility limited,Wireshark
+10:E9:92,INGRAM MICRO SERVICES,Wireshark
+E4:C7:67,Intel Corporate,Wireshark
+A0:02:A5,Intel Corporate,Wireshark
+60:45:2E,Intel Corporate,Wireshark
+8C:E9:EE,Intel Corporate,Wireshark
+4C:49:6C,Intel Corporate,Wireshark
+C8:15:4E,Intel Corporate,Wireshark
+E8:C8:29,Intel Corporate,Wireshark
+10:91:D1,Intel Corporate,Wireshark
+6C:4C:E2,Intel Corporate,Wireshark
+F8:FE:5E,Intel Corporate,Wireshark
+F0:20:FF,Intel Corporate,Wireshark
+C8:8A:9A,Intel Corporate,Wireshark
+A0:B3:39,Intel Corporate,Wireshark
+6C:F6:DA,Intel Corporate,Wireshark
+4C:5F:70,Intel Corporate,Wireshark
+70:D8:C2,Intel Corporate,Wireshark
+54:09:29,Inventus Power Eletronica do Brasil LTDA,Wireshark
+48:55:41,Iskratel d.o.o.,Wireshark
+54:13:CA,ITEL MOBILE LIMITED,Wireshark
+C8:9D:6D,ITEL MOBILE LIMITED,Wireshark
+00:C7:11,ITEL MOBILE LIMITED,Wireshark
+D8:2D:40,Janz - Contagem e Gestão de Fluídos S.A.,Wireshark
+C0:5D:39,Jiangsu Huitong Group Co.Ltd.,Wireshark
+BC:85:29,Jiangxi Remote lntelligence Technology Co.Ltd,Wireshark
+54:5F:A7,Jibaiyou Technology Co.Ltd.,Wireshark
+38:E2:CA,Katun Corporation,Wireshark
+48:D4:75,Lampuga GmbH,Wireshark
+74:5D:22,LCFC(HeFei) Electronics Technology co. ltd,Wireshark
+34:4E:2F,LEAR,Wireshark
+C0:5F:87,Legrand INTELLIGENT ELECTRICAL(HUIZHOU)CO.LTD.,Wireshark
+9C:96:13,Lenovo Future Communication Technology (Chongqing) Company Limited,Wireshark
+64:E4:A5,LG Electronics,Wireshark
+A4:36:C7,LG Innotek,Wireshark
+58:F8:5C,LLC Proizvodstvennaya Kompania TransService,Wireshark
+A8:81:FE,Luxul Tech Co. Ltd,Wireshark
+68:52:10,MCS Logic,Wireshark
+58:A2:E1,Mellanox Technologies Inc.,Wireshark
+B0:CF:0E,Mellanox Technologies Inc.,Wireshark
+94:F9:29,Meta Platforms Technologies LLC,Wireshark
+80:BA:16,Micas Networks Inc.,Wireshark
+D8:43:AE,Micro-Star INTL CO. LTD.,Wireshark
+FC:8C:11,Microsoft Corporation,Wireshark
+6C:15:44,Microsoft Corporation,Wireshark
+88:F0:0F,Miraeil,Wireshark
+C8:78:67,Mist Systems Inc.,Wireshark
+54:33:C6,Mist Systems Inc.,Wireshark
+E8:45:8B,MitraStar Technology Corp.,Wireshark
+B0:4A:B4,Motorola Mobility LLC a Lenovo Company,Wireshark
+C8:9F:0C,Motorola Mobility LLC a Lenovo Company,Wireshark
+74:92:BA,Movesense Ltd,Wireshark
+4C:EB:76,Murrelektronik GmbH,Wireshark
+18:5D:6F,N3com,Wireshark
+20:F8:3B,Nabu Casa Inc.,Wireshark
+58:BA:D3,NANJING CASELA TECHNOLOGIES CORPORATION LIMITED,Wireshark
+88:5E:BD,NCKOREA Co.Ltd.,Wireshark
+3C:CD:73,Nebula Electronic Technology Corporation,Wireshark
+1C:7C:98,NEC Platforms Ltd.,Wireshark
+28:94:01,NETGEAR,Wireshark
+DC:65:55,New H3C Intelligence Terminal Co. Ltd.,Wireshark
+04:A9:59,New H3C Technologies Co. Ltd,Wireshark
+70:81:85,New H3C Technologies Co. Ltd,Wireshark
+9C:09:71,New H3C Technologies Co. Ltd,Wireshark
+6C:87:20,New H3C Technologies Co. Ltd,Wireshark
+18:C0:09,New H3C Technologies Co. Ltd,Wireshark
+B4:D7:DB,New H3C Technologies Co. Ltd,Wireshark
+60:1A:C7,Nintendo Co.Ltd,Wireshark
+DC:CD:18,Nintendo Co.Ltd,Wireshark
+6C:62:86,Nokia,Wireshark
+4C:62:CD,Nokia,Wireshark
+EC:0C:96,Nokia,Wireshark
+28:6F:B9,Nokia Shanghai Bell Co. Ltd.,Wireshark
+48:41:7B,Nokia Solutions and Networks GmbH & Co. KG,Wireshark
+D0:48:4F,Nokia Solutions and Networks GmbH & Co. KG,Wireshark
+58:07:F8,Nokia Solutions and Networks GmbH & Co. KG,Wireshark
+44:6D:05,NoTraffic,Wireshark
+74:97:8E,Nova Labs,Wireshark
+A4:3C:D7,NTX Electronics YangZhou co.LTD,Wireshark
+D8:77:66,Nurivoice Co. Ltd,Wireshark
+F4:83:2C,OHSUNG,Wireshark
+40:B8:C2,OSMOZIS,Wireshark
+BC:B6:FB,P4Q ELECTRONICS S.L.,Wireshark
+3C:FA:30,Palo Alto Networks,Wireshark
+CC:57:63,Panasonic Automotive Systems Co.Ltd,Wireshark
+0C:65:9A,Panasonic Automotive Systems Company of America,Wireshark
+CC:CC:EA,PHOENIX CONTACT Electronics GmbH,Wireshark
+A8:58:4E,PK VEGA,Wireshark
+8C:9B:2D,PLANTRONICS INC.,Wireshark
+90:A1:BA,PNetworks Electronics Information ,Wireshark
+4C:E1:36,Private,Wireshark
+24:FD:FA,Private,Wireshark
+BC:24:11,Proxmox Server Solutions GmbH,Wireshark
+88:F9:16,Qingdao Dayu Dance Digital Technology Co.Ltd,Wireshark
+BC:5C:17,Qingdao Intelligent&Precise Electronics Co.Ltd.,Wireshark
+E8:8D:A6,Quectel Wireless Solutions Co.Ltd.,Wireshark
+DC:BD:CC,Quectel Wireless Solutions Co.Ltd.,Wireshark
+B0:0C:9D,Quectel Wireless Solutions Co.Ltd.,Wireshark
+0C:8D:7A,RADiflow,Wireshark
+5C:FC:E1,Resideo,Wireshark
+E0:21:FE,Richer Link Technologies CO.LTD,Wireshark
+38:31:5A,Rinnai,Wireshark
+34:5E:08,Roku Inc,Wireshark
+78:9A:18,Routerboard.com,Wireshark
+74:C7:6E,RTK-TECHNOLOGIES LLC,Wireshark
+FC:59:9F,Ruijie Networks Co.LTD,Wireshark
+D4:31:27,Ruijie Networks Co.LTD,Wireshark
+B0:5B:99,Sagemcom Broadband SAS,Wireshark
+AC:D7:5B,Sagemcom Broadband SAS,Wireshark
+20:47:B5,Sagemcom Broadband SAS,Wireshark
+78:8D:AF,Sagemcom Broadband SAS,Wireshark
+58:68:7A,Sagemcom Broadband SAS,Wireshark
+18:6A:81,Sagemcom Broadband SAS,Wireshark
+A0:7F:8A,Sagemcom Broadband SAS,Wireshark
+A4:22:49,Sagemcom Broadband SAS,Wireshark
+FC:93:6B,Samsung Electronics Co.Ltd,Wireshark
+7C:75:2D,Samsung Electronics Co.Ltd,Wireshark
+84:EE:E4,Samsung Electronics Co.Ltd,Wireshark
+20:15:DE,Samsung Electronics Co.Ltd,Wireshark
+CC:E9:FA,Samsung Electronics Co.Ltd,Wireshark
+64:66:D8,Samsung Electronics Co.Ltd,Wireshark
+2C:99:75,Samsung Electronics Co.Ltd,Wireshark
+38:4A:80,Samsung Electronics Co.Ltd,Wireshark
+E4:10:88,Samsung Electronics Co.Ltd,Wireshark
+28:E6:A9,Samsung Electronics Co.Ltd,Wireshark
+BC:0E:AB,Samsung Electronics Co.Ltd,Wireshark
+98:FB:27,Samsung Electronics Co.Ltd,Wireshark
+9C:39:28,Samsung Electronics Co.Ltd,Wireshark
+C8:A6:EF,Samsung Electronics Co.Ltd,Wireshark
+68:55:D4,Seiko Epson Corporation,Wireshark
+BC:96:E5,SERCOMM PHILIPPINES INC,Wireshark
+D8:78:C9,SERVERCOM (INDIA) PRIVATE LIMITED,Wireshark
+B4:DD:E0,Shanghai Amphenol Airwave Communication Electronics Co.Ltd.,Wireshark
+78:DF:72,Shanghai Imilab Technology Co.Ltd,Wireshark
+60:66:82,SHENZHEN ATEKO PHOTOELECTRICITY CO.LTD,Wireshark
+2C:C3:E6,SHENZHEN BILIAN ELECTRONIC CO.，LTD,Wireshark
+D0:91:68,SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.LTD,Wireshark
+A8:8B:28,SHENZHEN DIYANG SMART TECHNOLOGY CO.LTD.,Wireshark
+60:76:23,Shenzhen E-Superlink Technology Co. Ltd,Wireshark
+8C:1A:F3,Shenzhen Gooxi Information Security CO.Ltd.,Wireshark
+44:36:5D,Shenzhen HippStor Technology Co. Ltd,Wireshark
+48:9A:5B,Shenzhen iComm Semiconductor CO.LTD,Wireshark
+D0:A0:BB,Shenzhen iComm Semiconductor CO.LTD,Wireshark
+84:30:CE,Shenzhen Jaguar Microsystems Co. Ltd,Wireshark
+10:28:74,Shenzhen Jingxun Technology Co. Ltd.,Wireshark
+68:23:F4,Shenzhen Jinlangxin Technology Co. Ltd,Wireshark
+70:98:83,SHENZHEN KAYAN ELECTRONICS. LTD.,Wireshark
+CC:EC:B7,ShenZhen Linked-Z Intelligent Display Co. Ltd,Wireshark
+18:A7:88,Shenzhen MEK Intellisys Pte Ltd,Wireshark
+BC:FD:0C,Shenzhen Phaten Tech. LTD,Wireshark
+5C:7B:5C,Shenzhen SDMC Technology CO.Ltd.,Wireshark
+A8:F5:E1,Shenzhen Shokz Co. Ltd.,Wireshark
+84:87:FF,Shenzhen Skyworth Digital Technology CO. Ltd,Wireshark
+F0:90:08,Shenzhen Skyworth Digital Technology CO. Ltd,Wireshark
+E8:22:B8,Shenzhen Skyworth Digital Technology CO. Ltd,Wireshark
+90:0E:9E,Shenzhen SuperElectron Technology Co.Ltd.,Wireshark
+A8:B4:83,Shenzhen SuperElectron Technology Co.Ltd.,Wireshark
+04:80:A7,ShenZhen TianGang Micro Technology CO.LTD,Wireshark
+F8:3C:44,SHENZHEN TRANSCHAN TECHNOLOGY LIMITED,Wireshark
+E8:17:11,Shenzhen Vipstech Co. Ltd,Wireshark
+C0:7C:90,Shenzhen YOUHUA Technology Co. Ltd,Wireshark
+04:57:91,Shenzhenshi Xinzhongxin Technology Co.Ltd,Wireshark
+50:E4:78,Sichuan AI-Link Technology Co. Ltd.,Wireshark
+34:8D:52,Sichuan Tianyi Comheart Telecom Co.LTD,Wireshark
+58:D2:37,Sichuan Tianyi Comheart Telecom Co.LTD,Wireshark
+30:2F:1E,SIEMENS AG,Wireshark
+D0:7C:B2,Sigmastar Technology Ltd.,Wireshark
+84:27:12,Silicon Laboratories,Wireshark
+38:39:8F,Silicon Laboratories,Wireshark
+28:DB:A7,Silicon Laboratories,Wireshark
+0C:AE:5F,Silicon Laboratories,Wireshark
+0C:EF:F6,Silicon Laboratories,Wireshark
+88:1A:14,Silicon Laboratories,Wireshark
+E8:E0:7E,Silicon Laboratories,Wireshark
+B0:C7:DE,Silicon Laboratories,Wireshark
+FC:50:0C,Sitehop Ltd,Wireshark
+BC:10:2F,SJI Industry Company,Wireshark
+78:46:7D,SKAIChips,Wireshark
+0C:70:43,Sony Interactive Entertainment Inc.,Wireshark
+EC:74:8C,Sony Interactive Entertainment Inc.,Wireshark
+B4:0A:D8,Sony Interactive Entertainment Inc.,Wireshark
+A8:91:62,Sophos Ltd,Wireshark
+7C:BF:77,SPEEDTECH CORP.,Wireshark
+44:59:25,Square Inc.,Wireshark
+A8:00:E3,Starkey Labs Inc.,Wireshark
+EC:04:82,STL Systems AG,Wireshark
+04:D1:68,Sunplus Technology Co. Ltd.,Wireshark
+EC:EF:17,Sunplus Technology Co. Ltd.,Wireshark
+D8:43:EA,SY Electronics Ltd,Wireshark
+EC:A2:A0,Taicang T&W Electronics,Wireshark
+60:BD:2C,Taicang T&W Electronics,Wireshark
+8C:D5:4A,TAIYO YUDEN CO.LTD,Wireshark
+8C:CB:14,TBS GmbH,Wireshark
+48:87:B8,TCL King Electrical Appliances(Huizhou)Co.Ltd,Wireshark
+1C:AB:48,TECNO MOBILE LIMITED,Wireshark
+A8:5E:F2,TECNO MOBILE LIMITED,Wireshark
+3C:19:CB,TECNO MOBILE LIMITED,Wireshark
+1C:60:66,TEJAS NETWORKS LTD,Wireshark
+48:D0:17,Telecom Infra Project,Wireshark
+4C:A0:D4,Telink Semiconductor (Shanghai) Co. Ltd.,Wireshark
+34:6F:71,TenaFe Inc. ,Wireshark
+44:B5:9C,Tenet Networks Private Limited,Wireshark
+40:F3:B0,Texas Instruments,Wireshark
+14:9C:EF,Texas Instruments,Wireshark
+80:C4:1B,Texas Instruments,Wireshark
+34:68:B5,Texas Instruments,Wireshark
+CC:45:A5,Texas Instruments,Wireshark
+60:26:02,Texas Instruments,Wireshark
+EC:BF:D0,Texas Instruments,Wireshark
+88:0C:E0,Texas Instruments,Wireshark
+B8:3D:F6,Texas Instruments,Wireshark
+04:25:E8,Texas Instruments,Wireshark
+28:3C:90,Texas Instruments,Wireshark
+E4:FA:5B,Texas Instruments,Wireshark
+84:BB:26,Texas Instruments,Wireshark
+EC:9A:34,Texas Instruments,Wireshark
+40:79:12,Texas Instruments,Wireshark
+58:A1:5F,Texas Instruments,Wireshark
+10:CA:BF,Texas Instruments,Wireshark
+C0:D6:0A,Texas Instruments,Wireshark
+FC:A8:E0,THE FURUKAWA ELECTRIC CO. LTD,Wireshark
+DC:D1:60,Tianjin Changdatong Technology Co.LTD,Wireshark
+F0:A7:31,TP-Link Corporation Limited,Wireshark
+A8:42:A1,TP-Link Corporation Limited,Wireshark
+3C:52:A1,TP-Link Corporation Limited,Wireshark
+5C:E9:31,TP-Link Corporation Limited,Wireshark
+B8:F4:4F,u-blox AG,Wireshark
+58:76:B3,Ubee Interactive Co. Limited,Wireshark
+88:81:87,Umeox Innovations Co.Ltd,Wireshark
+B8:C0:65,Universal Electronics Inc.,Wireshark
+8C:3B:4A,Universal Global Scientific Industrial Co. Ltd.,Wireshark
+B8:FC:28,Valeo Vision Systems,Wireshark
+3C:2D:9E,Vantiva - Connected Home,Wireshark
+40:0F:C1,Vantiva USA LLC,Wireshark
+54:DF:1B,Vestel Elektronik San ve Tic. A.S.,Wireshark
+00:9C:C0,vivo Mobile Communication Co. Ltd.,Wireshark
+74:C5:30,vivo Mobile Communication Co. Ltd.,Wireshark
+4C:99:92,vivo Mobile Communication Co. Ltd.,Wireshark
+DC:2D:04,vivo Mobile Communication Co. Ltd.,Wireshark
+28:8E:B9,Wacom Co.Ltd.,Wireshark
+84:86:87,weiyuantechnology,Wireshark
+8C:53:E6,Wistron Neweb Corporation,Wireshark
+F8:6D:CC,Wistron Neweb Corporation,Wireshark
+CC:40:85,WiZ,Wireshark
+84:31:A8,Wuhan Funshion Online Technologies Co.Ltd,Wireshark
+8C:D0:8B,WuXi Rigosys Technology Co.LTD,Wireshark
+B8:A7:5E,Wuxi Xinjie Electric Co.Ltd,Wireshark
+80:48:2C,Wyze Labs Inc,Wireshark
+44:1A:4C,xFusion Digital Technologies Co.Ltd.,Wireshark
+18:52:3D,Xiamen Jiwu Technology CO.Ltd,Wireshark
+CC:EB:5E,Xiaomi Communications Co Ltd,Wireshark
+A4:CC:B3,Xiaomi Communications Co Ltd,Wireshark
+FC:A9:F5,Xiaomi Communications Co Ltd,Wireshark
+14:99:3E,Xiaomi Communications Co Ltd,Wireshark
+30:50:CE,Xiaomi Communications Co Ltd,Wireshark
+B4:05:A1,Xiaomi Communications Co Ltd,Wireshark
+88:6C:60,Xiaomi Communications Co Ltd,Wireshark
+90:75:DE,Zebra Technologies Inc.,Wireshark
+28:85:BB,Zen Exim Pvt. Ltd.,Wireshark
+64:E7:38,Zhejiang SUPCON Technology Co. Ltd.,Wireshark
+10:7B:93,Zhen Shi Information Technology (Shanghai) Co. Ltd.,Wireshark
+74:B8:0F,Zipline International Inc.,Wireshark
+F0:1B:24,zte corporation,Wireshark
+90:C7:10,zte corporation,Wireshark
+98:EE:8C,zte corporation,Wireshark
+DC:51:93,zte corporation,Wireshark
+F4:2E:48,zte corporation,Wireshark
+20:3A:EB,zte corporation,Wireshark
+F4:3A:7B,zte corporation,Wireshark
+68:9E:29,zte corporation,Wireshark
+54:DE:D3,zte corporation,Wireshark
+80:7C:0A,zte corporation,Wireshark
+58:D3:12,zte corporation,Wireshark
+D8:09:7F,zte corporation,Wireshark
+FC:FA:21,zte corporation,Wireshark
+D0:F9:28,zte corporation,Wireshark
+48:5F:DF,zte corporation,Wireshark
+F0:AB:1F,zte corporation,Wireshark
+7C:B3:0A,zte corporation,Wireshark
+DC:68:80,zte corporation,Wireshark
+84:F5:EB,zte corporation,Wireshark
+D0:DD:7C,zte corporation,Wireshark
+84:3C:99,zte corporation,Wireshark
+C8:4C:78,zte corporation,Wireshark
+80:2D:1A,zte corporation,Wireshark
+64:85:05,zte corporation,Wireshark
+E4:60:4D,zte corporation,Wireshark
+F4:E8:4F,zte corporation,Wireshark
+14:CA:56,zte corporation,Wireshark
+48:ED:E6,Zyxel Communications Corporation,Wireshark
 00:00:00,Xerox often used elsewhere,Wireshark
 00:00:01,Xerox Corporation,Wireshark
 00:00:02,Xerox Corporation,Wireshark
@@ -1522,7 +2122,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:00:CE,Megadata Corp.,Wireshark
 00:00:CF,Hayes Microcomputer Products,Wireshark
 00:00:D0,Develcon Electronics Ltd.,Wireshark
-00:00:D1,"# ""Nodem"" product",Wireshark
+00:00:D1,# Nodem product,Wireshark
 00:00:D2,Sbe Inc.,Wireshark
 00:00:D3,Wang Laboratories Inc.,Wireshark
 00:00:D4,Pure Data Ltd.,Wireshark
@@ -4231,7 +4831,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:0B:EB,Systegra AG,Wireshark
 00:0B:EC,Nippon Electric Instrument Inc.,Wireshark
 00:0B:ED,ELM Inc.,Wireshark
-00:0B:EE,"inc.jet, Incorporated",Wireshark
+00:0B:EE,inc.jet, Incorporated,Wireshark
 00:0B:EF,Code Corporation,Wireshark
 00:0B:F0,MoTEX Products Co. Ltd.,Wireshark
 00:0B:F1,LAP Laser Applikations,Wireshark
@@ -7030,7 +7630,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:17:2F,NeuLion Incorporated,Wireshark
 00:17:30,Automation Electronics,Wireshark
 00:17:31,ASUSTek COMPUTER INC.,Wireshark
-00:17:32,"Science-Technical Center ""RISSA""",Wireshark
+00:17:32,Science-Technical Center RISSA,Wireshark
 00:17:33,Sfr,Wireshark
 00:17:34,ADC Telecommunications,Wireshark
 00:17:35,Intel Wireless Network Group,Wireshark
@@ -8907,7 +9507,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:1E:C8,Rapid Mobile (Pty) Ltd,Wireshark
 00:1E:C9,Dell Inc.,Wireshark
 00:1E:CA,Nortel Networks,Wireshark
-00:1E:CB,"RPC Energoautomatika"" Ltd",Wireshark
+00:1E:CB,RPC Energoautomatika Ltd,Wireshark
 00:1E:CC,Cdvi,Wireshark
 00:1E:CD,KYLAND Technology Co. LTD,Wireshark
 00:1E:CE,BISA Technologies (Hong Kong) Limited,Wireshark
@@ -8954,7 +9554,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:1E:F9,Pascom Kommunikations systeme GmbH.,Wireshark
 00:1E:FA,PROTEI Ltd.,Wireshark
 00:1E:FB,Trio Motion Technology Ltd,Wireshark
-00:1E:FC,"Jsc ""Massa-K""",Wireshark
+00:1E:FC,Jsc Massa-K,Wireshark
 00:1E:FD,Microbit 2.0 AB,Wireshark
 00:1E:FE,LEVEL s.r.o.,Wireshark
 00:1E:FF,Mueller-Elektronik GmbH & Co. KG,Wireshark
@@ -8969,7 +9569,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:1F:08,Risco Ltd,Wireshark
 00:1F:09,Jastec,Wireshark
 00:1F:0A,Nortel Networks,Wireshark
-00:1F:0B,"Federal State Unitary Enterprise Industrial Union ""Electropribor""",Wireshark
+00:1F:0B,Federal State Unitary Enterprise Industrial Union Electropribor,Wireshark
 00:1F:0C,Intelligent Digital Services GmbH,Wireshark
 00:1F:0D,L3 Communications - Telemetry West,Wireshark
 00:1F:0E,Japan Kyastem Co. Ltd,Wireshark
@@ -9054,7 +9654,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:1F:5F,Blatand GmbH,Wireshark
 00:1F:60,Compass Systems Corp.,Wireshark
 00:1F:61,Talent Communication Networks Inc.,Wireshark
-00:1F:62,"JSC ""Stilsoft""",Wireshark
+00:1F:62,JSC Stilsoft,Wireshark
 00:1F:63,JSC Goodwin-Europa,Wireshark
 00:1F:64,Beijing Autelan Technology Inc.,Wireshark
 00:1F:65,Korea Electric Terminal Co. Ltd.,Wireshark
@@ -9414,7 +10014,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:20:CD,Hybrid Networks Inc.,Wireshark
 00:20:CE,Logical Design Group Inc.,Wireshark
 00:20:CF,Test & Measurement Systems Inc,Wireshark
-00:20:D0,"# ""The One Port"" terminal server",Wireshark
+00:20:D0,# The One Port terminal server,Wireshark
 00:20:D1,Microcomputer Systems (M) Sdn.,Wireshark
 00:20:D2,Rad Data Communications Ltd.,Wireshark
 00:20:D3,OST (Ouet Standard Telematique),Wireshark
@@ -10447,7 +11047,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:24:FE,AVM GmbH,Wireshark
 00:24:FF,QLogic Corporation,Wireshark
 00:25:00,Apple Inc.,Wireshark
-00:25:01,"JSC ""Supertel""",Wireshark
+00:25:01,JSC Supertel,Wireshark
 00:25:02,NaturalPoint,Wireshark
 00:25:03,IBM Corp,Wireshark
 00:25:04,Valiant Communications Limited,Wireshark
@@ -10562,7 +11162,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:25:75,FiberPlex Technologies LLC,Wireshark
 00:25:76,Neli Technologies,Wireshark
 00:25:77,D-BOX Technologies,Wireshark
-00:25:78,"JSC ""Concern ""Sozvezdie""",Wireshark
+00:25:78,JSC Concern Sozvezdie,Wireshark
 00:25:79,J & F Labs,Wireshark
 00:25:7A,CAMCO Produktions- und Vertriebs-GmbH für Beschallungs- und Beleuchtungsanlagen,Wireshark
 00:25:7B,Stj Electronics Pvt Ltd,Wireshark
@@ -11293,7 +11893,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:40:24,Compac Inc.,Wireshark
 00:40:25,Molecular Dynamics,Wireshark
 00:40:26,Buffalo.Inc,Wireshark
-00:40:27,"# [Had:Sigma (?) maybe the ""S""?]",Wireshark
+00:40:27,# [Had:Sigma (?) maybe the S?],Wireshark
 00:40:28,Netcomm Limited,Wireshark
 00:40:29,Compex,Wireshark
 00:40:2A,Canoga-Perkins,Wireshark
@@ -12105,7 +12705,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:80:16,Wandel & Goltermann,Wireshark
 00:80:17,Pfu Limited,Wireshark
 00:80:18,Kobe Steel Ltd.,Wireshark
-00:80:19,"# ""Etherprint"" product",Wireshark
+00:80:19,# Etherprint product,Wireshark
 00:80:1A,Bell Atlantic,Wireshark
 00:80:1B,Kodiak Technology,Wireshark
 00:80:1C,Newport Systems Solutions,Wireshark
@@ -12902,7 +13502,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 00:B0:1E,Rantic Labs Inc.,Wireshark
 00:B0:2A,ORSYS GmbH,Wireshark
 00:B0:2D,ViaGate Technologies Inc.,Wireshark
-00:B0:33,"OAO ""Izhevskiy radiozavod""",Wireshark
+00:B0:33,OAO Izhevskiy radiozavod,Wireshark
 00:B0:3B,HiQ Networks,Wireshark
 00:B0:48,Marconi Communications Inc.,Wireshark
 00:B0:52,Atheros Communications,Wireshark
@@ -15450,7 +16050,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 14:9B:F3,Guangdong Oppo Mobile Telecommunications Corp. Ltd,Wireshark
 14:9D:09,Huawei Technologies Co. Ltd,Wireshark
 14:9D:99,Apple Inc.,Wireshark
-14:9E:5D,"JSC ""IB Reform""",Wireshark
+14:9E:5D,JSC IB Reform,Wireshark
 14:9E:CF,Dell Inc.,Wireshark
 14:9F:3C,Samsung Electronics Co. Ltd,Wireshark
 14:9F:B6,Guangdong Genius Technology Co. Ltd.,Wireshark
@@ -15508,7 +16108,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 14:CB:19,HP Inc.,Wireshark
 14:CB:65,Microsoft Corporation,Wireshark
 14:CC:20,Tp-Link Technologies Co. Ltd.,Wireshark
-14:CC:B3,"Ao ""Gk Nateks""",Wireshark
+14:CC:B3,Ao Gk Nateks,Wireshark
 14:CF:8D,Ohsung,Wireshark
 14:CF:92,Tp-Link Technologies Co. Ltd.,Wireshark
 14:CF:E2,ARRIS Group Inc.,Wireshark
@@ -16142,7 +16742,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 1C:B8:BA,Xiamen Leelen Technology Co. Ltd,Wireshark
 1C:B9:C4,Ruckus Wireless,Wireshark
 1C:BA:8C,Texas Instruments,Wireshark
-1C:BB:A8,"OJSC ""Ufimskiy Zavod ""Promsvyaz""",Wireshark
+1C:BB:A8,OJSC Ufimskiy Zavod Promsvyaz,Wireshark
 1C:BC:EC,silex technology Inc.,Wireshark
 1C:BD:0E,Amplified Engineering Pty Ltd,Wireshark
 1C:BD:B9,D-Link International,Wireshark
@@ -18232,7 +18832,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 38:89:2C,Apple Inc.,Wireshark
 38:89:DC,Opticon Sensors Europe B.V.,Wireshark
 38:8A:06,Samsung Electronics Co. Ltd,Wireshark
-38:8A:21,"UAB ""Teltonika Telematics""",Wireshark
+38:8A:21,UAB Teltonika Telematics,Wireshark
 38:8A:B7,ITC Networks,Wireshark
 38:8A:BE,Guangdong Oppo Mobile Telecommunications Corp. Ltd,Wireshark
 38:8B:59,Google Inc.,Wireshark
@@ -18382,7 +18982,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 38:FD:F5,Renesas Electronics (Penang) Sdn. Bhd.,Wireshark
 38:FD:FE,IEEE Registration Authority,Wireshark
 38:FE:C5,Ellips B.V.,Wireshark
-38:FF:13,"Joint Stock Company ""Research Instinite ""Masshtab""",Wireshark
+38:FF:13,Joint Stock Company Research Instinite Masshtab,Wireshark
 38:FF:36,Ruckus Wireless,Wireshark
 3A:02:92,Video Electronics Standards Association,Wireshark
 3A:0E:75,Kevcom Llc,Wireshark
@@ -19468,7 +20068,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 48:5F:99,Cloud Network Technology (Samoa) Limited,Wireshark
 48:60:5F,LG Electronics (Mobile Communications),Wireshark
 48:60:BC,Apple Inc.,Wireshark
-48:61:A3,"Concern ""Axion"" JSC",Wireshark
+48:61:A3,Concern Axion JSC,Wireshark
 48:61:EE,Samsung Electronics Co. Ltd,Wireshark
 48:62:76,Huawei Technologies Co. Ltd,Wireshark
 48:65:EE,IEEE Registration Authority,Wireshark
@@ -21595,7 +22195,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 64:27:37,Hon Hai Precision Ind. Co. Ltd.,Wireshark
 64:27:53,Huawei Device Co. Ltd.,Wireshark
 64:29:43,D-Link Corporation,Wireshark
-64:29:ED,"AO ""PKK Milandr""",Wireshark
+64:29:ED,AO PKK Milandr,Wireshark
 64:2B:8A,ALL BEST Industrial Co. Ltd.,Wireshark
 64:2C:0F,vivo Mobile Communication Co. Ltd.,Wireshark
 64:2C:AC,Huawei Technologies Co. Ltd,Wireshark
@@ -21784,7 +22384,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 64:C7:53,Apple Inc.,Wireshark
 64:C9:01,INVENTEC Corporation,Wireshark
 64:C9:44,LARK Technologies Inc,Wireshark
-64:CB:5D,"SIA ""TeleSet""",Wireshark
+64:CB:5D,SIA TeleSet,Wireshark
 64:CB:9F,Tecno Mobile Limited,Wireshark
 64:CB:A3,Pointmobile,Wireshark
 64:CB:E9,LG Innotek,Wireshark
@@ -23755,7 +24355,7 @@ FC:7F:F1,Aruba a Hewlett Packard Enterprise Company,Wireshark
 7C:D8:44,Enmotus Inc,Wireshark
 7C:D9:5C,Google Inc.,Wireshark
 7C:D9:A0,Huawei Technologies Co. Ltd,Wireshark
-7C:D9:F4,"UAB ""Teltonika Telematics""",Wireshark
+7C:D9:F4,UAB Teltonika Telematics,Wireshark
 7C:D9:FE,New Cosmos Electric Co. Ltd.,Wireshark
 7C:DA:84,Dongnian Networks Inc.,Wireshark
 7C:DA:C3,Sichuan Tianyi Comheart Telecom Co. Ltd,Wireshark
@@ -26649,7 +27249,7 @@ A0:DA:92,Nanjing Glarun Atten Technology Co. Ltd.,Wireshark
 A0:DC:04,Becker-Antriebe GmbH,Wireshark
 A0:DD:97,PolarLink Technologies Ltd,Wireshark
 A0:DD:E5,SHARP Corporation,Wireshark
-A0:DE:05,"JSC ""Irbis-T""",Wireshark
+A0:DE:05,JSC Irbis-T,Wireshark
 A0:DE:0F,Huawei Device Co. Ltd.,Wireshark
 A0:DF:15,Huawei Technologies Co. Ltd,Wireshark
 A0:E2:01,AVTrace Ltd.(China),Wireshark
@@ -28985,7 +29585,7 @@ C0:56:E3,Hangzhou Hikvision Digital Technology Co. Ltd.,Wireshark
 C0:57:BC,Avaya Inc,Wireshark
 C0:58:A7,Pico Systems Co. Ltd.,Wireshark
 C0:5B:44,Beijing Xiaomi Mobile Software Co. Ltd,Wireshark
-C0:5E:6F,"V. Stonkaus firma ""Kodinis Raktas""",Wireshark
+C0:5E:6F,V. Stonkaus firma Kodinis Raktas,Wireshark
 C0:5E:79,Shenzhen Huaxun Ark Technologies Co. Ltd,Wireshark
 C0:61:18,Tp-Link Technologies Co. Ltd.,Wireshark
 C0:61:3D,BioIntelliSense Inc.,Wireshark
@@ -30108,7 +30708,7 @@ CC:E7:98,My Social Stuff,Wireshark
 CC:E7:DF,American Magnetics Inc.,Wireshark
 CC:E8:AC,SOYEA Technology Co. Ltd.,Wireshark
 CC:EA:1C,DCONWORKS Co. Ltd,Wireshark
-CC:EB:18,"Ooo ""Tss""",Wireshark
+CC:EB:18,Ooo Tss,Wireshark
 CC:ED:21,Nokia Shanghai Bell Co. Ltd.,Wireshark
 CC:ED:DC,MitraStar Technology Corp.,Wireshark
 CC:EE:D9,VAHLE Automation GmbH,Wireshark
@@ -31247,7 +31847,7 @@ DC:82:F6,iPort,Wireshark
 DC:84:E9,Shenzhen Qihoo Intelligent Technology Co. Ltd,Wireshark
 DC:85:DE,AzureWave Technology Inc.,Wireshark
 DC:86:D8,Apple Inc.,Wireshark
-DC:87:CB,Perfectk    Beijing Perfectek Technologies Co. Ltd.,Wireshark
+DC:87:CB,Perfectk Beijing Perfectek Technologies Co. Ltd.,Wireshark
 DC:89:83,Samsung Electronics Co. Ltd,Wireshark
 DC:8B:28,Intel Corporate,Wireshark
 DC:8C:1B,vivo Mobile Communication Co. Ltd.,Wireshark
@@ -33208,7 +33808,7 @@ F4:E3:FB,Huawei Technologies Co. Ltd,Wireshark
 F4:E4:51,Huawei Technologies Co. Ltd,Wireshark
 F4:E4:AD,zte corporation,Wireshark
 F4:E4:D7,Fujian Star-Net Communication Co. Ltd,Wireshark
-F4:E5:78,"LLC Proizvodstvennaya Kompania ""TransService""",Wireshark
+F4:E5:78,LLC Proizvodstvennaya Kompania TransService,Wireshark
 F4:E5:F2,Huawei Technologies Co. Ltd,Wireshark
 F4:E6:D7,Solar Power Technologies Inc.,Wireshark
 F4:E8:C7,Apple Inc.,Wireshark
@@ -33927,7 +34527,3 @@ FC:FE:C2,Invensys Controls UK Limited,Wireshark
 FC:FF:AA,IEEE Registration Authority,Wireshark
 1E:49:BC,DrayTek Corp.,Field
 1A:49:BC,DrayTek Corp.,Field
-1E:49:BC,DrayTek Corp.,Field
-1A:49:BC,DrayTek Corp.,Field
-1A:49:BC,DrayTek Corp.,Field
-1E:49:BC,DrayTek Corp.,Field
