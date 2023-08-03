@@ -13,7 +13,7 @@ This Shortcut is using our own Wi-Fi-centric databse of OUIs and vendors. It is 
 
 ### Source - the third column
 
-- Wireshark - Wireshark's OUI database from IEEE and other sources 
+- Wireshark - [Wireshark's OUI database](https://www.wireshark.org/tools/oui-lookup.html) from IEEE and other sources, huge thanks to the Wireshark team 
 - Field - The OUI was seen on the air using a Wi-Fi scanner and vendor of the AP has been visually confirmed
 - Documentation - Vendor's documentation
 - HW Address - The HW Address tool https://hwaddress.com/oui-iab/74-83-C2/, https://hwaddress.com/oui-iab/80-2A-A8/
