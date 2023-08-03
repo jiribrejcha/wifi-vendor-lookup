@@ -11,9 +11,7 @@ Wi-Fi Vendor Lookup tool is an Apple iOS Shortcut for iPhones/iPads. It allows y
 ## Dabatase format
 This Shortcut is using our own Wi-Fi-centric database of OUIs and vendors. It is compiled from Wireshark's sources (mainly IEEE) with some additional Wi-Fi entries from Wi-Fi vendors' documentation and few entries captured on the air in the field. The database itself is a flat comma-separated file with 3 columns:
 
-- OUI
-- Vendor
-- Source
+<img width="399" alt="image" src="https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/5721e426-fe41-4202-9eb5-c0aad789092c">
 
 With larger Wi-Fi vendors towards the top of the list to optimise lookup time.
 
