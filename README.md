@@ -1,6 +1,8 @@
 # Wi-Fi Vendor Lookup Apple iOS Shortcut
 Wi-Fi Vendor Lookup tool is an Apple iOS Shortcut for iPhones/iPads. It allows you to quickly check who the vendor of an access point. Very useful when the AP is not visibly installed.
 
+![image](https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/73b2fe04-c797-4d5f-be7d-1cd893ae4ccb)
+
 ## How to install
 1. Download [Wi-Fi Vendor Lookup.shortcut](https://github.com/jiribrejcha/wifi-vendor-lookup/raw/main/Wi-Fi%20Vendor%20Lookup.shortcut) on your iPhone/iPad and add it to your Shortcuts app.
 2. Approve permission requests.
