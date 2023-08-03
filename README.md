@@ -1,8 +1,12 @@
-# Very much work in progress
+# Wi-Fi Vendor Lookup Shortcut
+Wi-Fi Vendor Lookup tool is an Apple iOS Shortcut for iPhones/iPads. It allows you to quickly check who the vendor of an access point. Very useful when the AP is not visibly installed.
 
-# Wi-Fi Vendor Lookup
-Wi-Fi Vendor Lookup tool is an Apple iOS Shortcut for iPhones/iPads. It allows user to quickly check who the vendor of an access point is when the AP is not visibly installed.
-The oui-vendor.csv file provides OUI <-> Wi-Fi AP vendor mapping and it is Wi-Fi centric.
+# How to install
+1. Open the "Wi-Fi Vendor Lookup.shortcut" on your iPhone/iPad and add it to your Shortcuts app.
+2. Approve permission requests.
+3. Open Shortcuts app and run it for the first time.
+4. Either connect to a Wi-Fi network and we will automatically detect the BSSID you are connected to and find the vendor for you.
+5. Alternatively, enter the OUI or the whole BSSID manually. Try this for example: ```00:01:42```
 
 # Format
 CSV with 3 columns with larger vendors towards the top of the list
