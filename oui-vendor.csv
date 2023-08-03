@@ -1356,8 +1356,6 @@ BC:0F:FE,Juniper Networks,Wireshark
 80:F0:CF,Ruckus Wireless,Wireshark
 2C:AB:46,Ruckus Wireless,Wireshark
 A8:0B:FB,Ruckus Wireless,Wireshark
-74:83:C2,Ubiquiti Inc,Wireshark
-80:2A:A8,Ubiquiti Inc,Wireshark
 30:7A:57,Accuenergy (CANADA) Inc,Wireshark
 70:58:A4,Actiontec Electronics Inc.,Wireshark
 D8:09:4E,Active Brains,Wireshark
@@ -34529,7 +34527,3 @@ FC:FE:C2,Invensys Controls UK Limited,Wireshark
 FC:FF:AA,IEEE Registration Authority,Wireshark
 1E:49:BC,DrayTek Corp.,Field
 1A:49:BC,DrayTek Corp.,Field
-1E:49:BC,DrayTek Corp.,Field
-1A:49:BC,DrayTek Corp.,Field
-1A:49:BC,DrayTek Corp.,Field
-1E:49:BC,DrayTek Corp.,Field
