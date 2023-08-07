@@ -4,7 +4,7 @@ Wi-Fi Vendor Lookup tool is an Apple iOS Shortcut for iPhones/iPads. It allows y
 ![image](https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/73b2fe04-c797-4d5f-be7d-1cd893ae4ccb)
 
 ## How to install
-1. Download [Wi-Fi Vendor Lookup.shortcut](https://github.com/jiribrejcha/wifi-vendor-lookup/raw/main/Wi-Fi%20Vendor%20Lookup.shortcut) on your iPhone/iPad and add it to your Shortcuts app.
+1. Download [Wi-Fi Vendor Lookup.shortcut](https://github.com/jiribrejcha/wifi-vendor-lookup/raw/main/Wi-Fi%20Vendor.shortcut) on your iPhone/iPad and add it to your Shortcuts app.
 2. Approve permission requests.
 3. Open Shortcuts app and run it for the first time.
 4. Either connect to a Wi-Fi network and we will automatically detect the BSSID you are connected to and find the vendor for you.
