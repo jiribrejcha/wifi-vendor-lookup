@@ -1,12 +1,19 @@
 # Wi-Fi Vendor - Detect vendor of a Wi-Fi access point with just your iPhone or iPad
 Wi-Fi Vendor is an Apple iOS Shortcut for iPhones/iPads. It allows you to check the vendor of an access point. It is very useful when the AP is not visibly installed.
 
-![image](https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/d72d7523-0193-47b7-8e29-73c7c4da5b65)
+## Documentation
+More documentation is [available on my blog here.](https://www.jiribrejcha.net/2023/08/wi-fi-vendor-detect-vendor-of-a-wi-fi-access-point-with-just-your-iphone-or-ipad/)
+
+## Screenshots and videos
+![image](https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/11f7fd91-b582-46cf-8a32-5b4769542710)
+
+Recorded demos:
+- https://www.youtube.com/shorts/-UO2NLSktvU
+- https://www.youtube.com/shorts/0q1oUg5YTRE
 
 ## How to install
 1. Download [Wi-Fi Vendor.shortcut](https://github.com/jiribrejcha/wifi-vendor-lookup/raw/main/Wi-Fi%20Vendor.shortcut) on your iPhone/iPad and add it to your Shortcuts app.
-2. Approve permission requests.
-3. Open Shortcuts app and run it for the first time.
+2. Follow our video installation guide.
 4. Either connect to a Wi-Fi network and we will automatically detect the BSSID you are connected to and find the vendor for you.
 5. Alternatively, enter the OUI or the whole BSSID manually. Try this for example: ```00:01:42```
 
