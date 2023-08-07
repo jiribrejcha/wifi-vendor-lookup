@@ -29,6 +29,8 @@ Some vendors ship Wi-Fi routers with various chipsets and OUIs. To help you iden
 
 - BT Hub 6 - Sagemcom Broadband
 - WLAN Pi M4 with MT7922 - Cloud Network Technology Singapore
+- Virgin Media Hub - Sagemcom Broadband SAS, ARRIS Group Inc.
+
 
 ## Help us keep the database up to date
 Simply clone our repo, and submit a Pull Request with your suggested update. If you are proposing a new database addition or edit, include a Wi-Fi scan result screenshot, and a photo of the AP including the label, if you can access it.
