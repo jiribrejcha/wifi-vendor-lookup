@@ -44,4 +44,4 @@ Simply clone our repo, and submit a Pull Request with your suggested update. If 
 
 ## The mandatory boring bit
 
-This tool is provided as is. If you spot anything that needs to be fixed, let us know, or even better submit a Pull Request including the fix.
+This tool is provided as is. If you spot anything that needs to be fixed, let us know, or even better submit a Pull Request including the fix. Blame Jiri for anything that needs to be fixed, not Cisco 😉
