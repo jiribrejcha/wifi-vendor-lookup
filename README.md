@@ -4,16 +4,17 @@ Wi-Fi Vendor is an Apple iOS Shortcut for iPhones/iPads. It allows you to check 
 ## Documentation
 More documentation is [available on my blog here.](https://www.jiribrejcha.net/2023/08/wi-fi-vendor-detect-vendor-of-a-wi-fi-access-point-with-just-your-iphone-or-ipad/)
 
-## Screenshots and videos
+## Screenshots and video demos
 ![image](https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/11f7fd91-b582-46cf-8a32-5b4769542710)
 
-Recorded demos:
-- https://www.youtube.com/shorts/-UO2NLSktvU
-- https://www.youtube.com/shorts/0q1oUg5YTRE
+Video demos [are available here](https://www.jiribrejcha.net/2023/08/wi-fi-vendor-detect-vendor-of-a-wi-fi-access-point-with-just-your-iphone-or-ipad/).
+
+![image](https://github.com/jiribrejcha/wifi-vendor-lookup/assets/18701525/ec7d19b8-fedb-4304-a488-060cd8143db2)
+
 
 ## How to install
 1. Download [Wi-Fi Vendor.shortcut](https://github.com/jiribrejcha/wifi-vendor-lookup/raw/main/Wi-Fi%20Vendor.shortcut) on your iPhone/iPad and add it to your Shortcuts app.
-2. Follow our video installation guide.
+2. Follow our [video installation guide](https://www.jiribrejcha.net/2023/08/wi-fi-vendor-detect-vendor-of-a-wi-fi-access-point-with-just-your-iphone-or-ipad#install).
 4. Either connect to a Wi-Fi network and we will automatically detect the BSSID you are connected to and find the vendor for you.
 5. Alternatively, enter the OUI or the whole BSSID manually. Try this for example: ```00:01:42```
 
