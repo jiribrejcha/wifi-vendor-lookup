@@ -1257,6 +1257,11 @@ CC:03:D9,Cisco Meraki,Wireshark
 CC:9C:3E,Cisco Meraki,Wireshark
 E4:55:A8,Cisco Meraki,Wireshark
 F8:9E:28,Cisco Meraki,Wireshark
+EA:55:A8,Cisco Meraki,Field
+EA:55:B8,Cisco Meraki,Field
+E6:55:B8,Cisco Meraki,Field
+DA:55:A8,Cisco Meraki,Field
+DA:55:B8,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
