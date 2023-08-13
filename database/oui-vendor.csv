@@ -1071,6 +1071,10 @@ F8:C6:50,Cisco Systems Inc,Wireshark
 8C:94:61,Cisco Systems Inc,Wireshark
 68:79:09,Cisco Systems Inc,Wireshark
 E4:A4:1C,Cisco Systems Inc,Wireshark
+A4:00:4E,Cisco Systems Inc,Wireshark
+A4:10:B6,Cisco Systems Inc,Wireshark
+C8:47:09,Cisco Systems Inc,Wireshark
+CC:36:CF,Cisco Systems Inc,Wireshark
 9C:E3:30,Cisco Meraki,Wireshark
 B4:DF:91,Cisco Meraki,Wireshark
 E0:D3:B4,Cisco Meraki,Wireshark
@@ -1275,6 +1279,22 @@ DA:55:B8,Cisco Meraki,Field
 6A:3A:0E,Cisco Meraki,Field
 56:3A:0E,Cisco Meraki,Field
 68:3A:1E,Cisco Meraki,Field
+E2:55:B8,Cisco Meraki,Field
+EE:55:B8,Cisco Meraki,Field
+A6:17:D8,Cisco Meraki,Field
+AE:17:D8,Cisco Meraki,Field
+0E:8D:9B,Cisco Meraki,Field
+DE:CB:BC,Cisco Meraki,Field
+DE:CB:AC,Cisco Meraki,Field
+6E:3A:0E,Cisco Meraki,Field
+6A:3A:0E,Cisco Meraki,Field
+72:3A:0E,Cisco Meraki,Field
+7E:3A:0E,Cisco Meraki,Field
+68:3A:1E,Cisco Meraki,Field
+7E:3A:1E,Cisco Meraki,Field
+6E:3A:1E,Cisco Meraki,Field
+72:3A:1E,Cisco Meraki,Field
+AA:17:D8,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -1383,10 +1403,17 @@ B2:8B:A9,Ubiquiti Inc.,Field
 C2:8B:A9,Ubiquiti Inc.,Field
 02:EC:DA,Ubiquiti Inc.,Field
 76:AC:B9,Ubiquiti Inc.,Field
+56:0D:82,Fortinet Inc.,Field
+56:0D:81,Fortinet Inc.,Field
+AE:86:74,⁣⁣Open Mesh,Field
+7E:8A:20,Ubiquiti Inc.,Field
+F6:92:BF,Ubiquiti Inc.,Field
 52:22:54,TP-Link Corporation Limited,Field
 16:49:BC,DrayTek Corp.,Field
 00:81:9B,Sky Uk Limited,Field
 7A:32:1B,D-Link International,Field
+1E:49:BC,DrayTek Corp.,Field
+1A:49:BC,DrayTek Corp.,Field
 3C:25:F8,Dell Inc.,Wireshark
 3C:55:DB,Shenzhen Skyworth Digital Technology CO. Ltd,Wireshark
 40:C0:EE,365mesh Pty Ltd,Wireshark
@@ -1399,12 +1426,8 @@ C2:8B:A9,Ubiquiti Inc.,Field
 8A:85:2E,Kampr Systems,Wireshark
 8C:61:20,EM Microelectronic,Wireshark
 90:45:28,Nintendo Co.Ltd,Wireshark
-A4:00:4E,Cisco Systems Inc,Wireshark
-A4:10:B6,Cisco Systems Inc,Wireshark
 A4:97:8A,Lear,Wireshark
-C8:47:09,Cisco Systems Inc,Wireshark
 C8:9C:BB,Taicang T&W Electronics,Wireshark
-CC:36:CF,Cisco Systems Inc,Wireshark
 EA:27:01,ACCE Technology Corp.,Wireshark
 EC:6E:79,InHand Networks INC.,Wireshark
 EC:B1:E0,Eltex Enterprise LTD,Wireshark
@@ -34580,9 +34603,6 @@ FC:FC:48,Apple Inc.,Wireshark
 FC:FE:77,Hitachi Reftechno Inc.,Wireshark
 FC:FE:C2,Invensys Controls UK Limited,Wireshark
 FC:FF:AA,IEEE Registration Authority,Wireshark
-1E:49:BC,DrayTek Corp.,Field
-1A:49:BC,DrayTek Corp.,Field
-7E:57:58,HP Inc.,Field
 2C:9E:E0,Cavli Inc.,Wireshark
 64:C1:7E,cheilelectric,Wireshark
 94:32:51,Askey Computer Corp,Wireshark
