@@ -1299,6 +1299,11 @@ AA:17:C8,Cisco Meraki,Field
 E2:55:A8,Cisco Meraki,Field
 A6:17:C8,Cisco Meraki,Field
 EE:55:A8,Cisco Meraki,Field
+AE:46:9D,Cisco Meraki,Field
+A2:46:9D,Cisco Meraki,Field
+F2:9E:28,Cisco Meraki,Field
+F6:9E:28,Cisco Meraki,Field
+96:46:9D,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -1443,7 +1448,6 @@ D2:21:F9,Ubiquiti Inc.,Field
 DE:07:B6,Tp-Link Technologies Co. Ltd.,Field
 82:83:C2,Ubiquiti Inc.,Field
 1A:FD:74,MikroTik,Field
-96:46:9D,Cisco Meraki,Field
 82:2A:A8,Ubiquiti Inc.,Field
 7E:83:C2,Ubiquiti Inc.,Field
 76:DA:38,Edimax Technology,Field
@@ -1459,8 +1463,6 @@ BE:FB:E4,Ubiquiti Inc.,Field
 C2:06:C3,Tp-Link Technologies Co. Ltd.,Field
 6A:D7:9A,Ubiquiti Inc.,Field
 86:83:C2,Ubiquiti Inc.,Field
-F2:9E:28,Cisco Meraki,Field
-F6:9E:28,Cisco Meraki,Field
 52:91:E3,TP-Link Corporation Limited,Field
 BA:8B:A9,Ubiquiti Inc.,Field
 BE:8B:A9,Ubiquiti Inc.,Field
