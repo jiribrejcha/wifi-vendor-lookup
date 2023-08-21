@@ -1304,6 +1304,7 @@ A2:46:9D,Cisco Meraki,Field
 F2:9E:28,Cisco Meraki,Field
 F6:9E:28,Cisco Meraki,Field
 96:46:9D,Cisco Meraki,Field
+32:8D:DB,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -1490,6 +1491,7 @@ F6:92:BF,Ubiquiti Inc.,Field
 7A:32:1B,D-Link International,Field
 1E:49:BC,DrayTek Corp.,Field
 1A:49:BC,DrayTek Corp.,Field
+E2:54:F1,Huawei Technologies,Field
 28:4E:E9,mercury corperation,Wireshark
 48:E5:33,Sunnovo International Limited,Wireshark
 4C:57:39,Samsung Electronics Co. Ltd,Wireshark
