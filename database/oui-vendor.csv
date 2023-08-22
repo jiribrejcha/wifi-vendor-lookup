@@ -1276,9 +1276,7 @@ DA:55:B8,Cisco Meraki,Field
 66:3A:1E,Cisco Meraki,Field
 56:3A:1E,Cisco Meraki,Field
 6A:3A:0E,Cisco Meraki,Field
-6A:3A:0E,Cisco Meraki,Field
 56:3A:0E,Cisco Meraki,Field
-68:3A:1E,Cisco Meraki,Field
 E2:55:B8,Cisco Meraki,Field
 EE:55:B8,Cisco Meraki,Field
 A6:17:D8,Cisco Meraki,Field
@@ -1287,10 +1285,8 @@ AE:17:D8,Cisco Meraki,Field
 DE:CB:BC,Cisco Meraki,Field
 DE:CB:AC,Cisco Meraki,Field
 6E:3A:0E,Cisco Meraki,Field
-6A:3A:0E,Cisco Meraki,Field
 72:3A:0E,Cisco Meraki,Field
 7E:3A:0E,Cisco Meraki,Field
-68:3A:1E,Cisco Meraki,Field
 7E:3A:1E,Cisco Meraki,Field
 6E:3A:1E,Cisco Meraki,Field
 72:3A:1E,Cisco Meraki,Field
@@ -1308,7 +1304,11 @@ F6:9E:28,Cisco Meraki,Field
 B6:15:44,Cisco Meraki,Field
 62:3A:1E,Cisco Meraki,Field
 62:3A:0E,Cisco Meraki,Field
-68:3A:1E,Cisco Meraki,Field
+C6:9E:38,Cisco Meraki,Field
+FA:9E:38,Cisco Meraki,Field
+F6:9E:38,Cisco Meraki,Field
+FE:9E:38,Cisco Meraki,Field
+F2:9E:38,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -18636,6 +18636,7 @@ F4:E8:4F,zte corporation,Wireshark
 34:5D:9E,Sagemcom Broadband SAS,Wireshark
 34:60:F9,TP-Link Corporation Limited,Wireshark
 36:60:F9,TP-Link Corporation Limited,Field
+3A:60:F9,TP-Link Corporation Limited,Field
 34:61:78,The Boeing Company,Wireshark
 34:62:B4,Renesas Electronics (Penang) Sdn. Bhd.,Wireshark
 34:63:D4,Bionix Supplychain Technologies Slu,Wireshark
@@ -20073,6 +20074,7 @@ F4:E8:4F,zte corporation,Wireshark
 44:D8:78,Hui Zhou Gaoshengda Technology Co. Ltd,Wireshark
 44:D8:84,Apple Inc.,Wireshark
 44:D9:E7,Ubiquiti Inc,Wireshark
+46:D9:E7,Ubiquiti Inc,Field
 44:DA:30,Apple Inc.,Wireshark
 44:DB:60,Nanjing Baihezhengliu Technology Co. Ltd,Wireshark
 44:DB:D2,Yealink(Xiamen) Network Technology Co. Ltd.,Wireshark
@@ -20567,6 +20569,7 @@ F4:E8:4F,zte corporation,Wireshark
 4C:5C:DF,Itel Mobile Limited,Wireshark
 4C:5D:CD,Oy Finnish Electric Vehicle Technologies Ltd,Wireshark
 4C:5E:0C,Routerboard.com,Wireshark
+4E:5E:0C,MikroTik,Field
 4C:5E:D3,Unisyue Technologies Co; LTD.,Wireshark
 4C:5F:D2,Alcatel-Lucent,Wireshark
 4C:60:D5,airPointe of New Hampshire,Wireshark
