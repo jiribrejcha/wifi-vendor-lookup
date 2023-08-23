@@ -25504,6 +25504,8 @@ F4:E8:4F,zte corporation,Wireshark
 88:DA:1A,Redpine Signals Inc.,Wireshark
 88:DA:33,Beijing Xiaoyuer Network Technology Co. Ltd,Wireshark
 88:DC:96,EnGenius Technologies Inc.,Wireshark
+7A:DC:96,EnGenius Technologies Inc.,Field
+72:DC:96,EnGenius Technologies Inc.,Field
 88:DD:79,Voltaire,Wireshark
 88:DE:7C,Askey Computer Corp,Wireshark
 88:DE:A9,Roku Inc.,Wireshark
@@ -32983,6 +32985,11 @@ E8:9E:B4,Hon Hai Precision Ind. Co. Ltd.,Wireshark
 E8:9F:39,Nokia,Wireshark
 E8:9F:6D,Espressif Inc.,Wireshark
 E8:9F:80,Belkin International Inc.,Wireshark
+EE:9F:80,Belkin International Inc.,Field
+F2:9F:80,Belkin International Inc.,Field
+CA:41:1E,Belkin International Inc.,Field
+36:23:03,Belkin International Inc.,Field
+DE:EC:5E,Belkin International Inc.,Field
 E8:9F:EC,Chengdu Kt Electronic Hi-Tech Co. Ltd,Wireshark
 E8:A0:CD,Nintendo Co. Ltd,Wireshark
 E8:A0:ED,Hangzhou Hikvision Digital Technology Co. Ltd.,Wireshark
