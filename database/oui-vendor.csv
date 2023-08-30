@@ -1428,38 +1428,21 @@ BC:0F:FE,Juniper Networks,Wireshark
 80:F0:CF,Ruckus Wireless,Wireshark
 2C:AB:46,Ruckus Wireless,Wireshark
 A8:0B:FB,Ruckus Wireless,Wireshark
-5E:B1:3E,Sagem Broadband,Field
 06:92:BF,Ubiquiti Inc.,Field
 82:45:58,Ubiquiti Inc.,Field
 EE:63:DA,Ubiquiti Inc.,Field
 EA:63:DA,Ubiquiti Inc.,Field
-1E:61:B4,TP-Link Technologies Co. Ltd.,Field
-7E:8C:B5,TP-Link Technologies Co. Ltd.,Field
-A2:53:22,TP-Link Technologies Co. Ltd.,Field
-AA:53:22,TP-Link Technologies Co. Ltd.,Field
-C6:06:C3,TP-Link Technologies Co. Ltd.,Field
 E6:63:DA,Ubiquiti Inc.,Field
 FA:92:BF,Ubiquiti Inc.,Field
 F2:63:DA,Ubiquiti Inc.,Field
 E2:63:DA,Ubiquiti Inc.,Field
-62:A4:B7,TP-Link Technologies Co. Ltd.,Field
 FE:92:BF,Ubiquiti Inc.,Field
 7E:45:58,Ubiquiti Inc.,Field
 02:92:BF,Ubiquiti Inc.,Field
-46:3F:8C,TP-Link Technologies Co. Ltd.,Field
-D6:CA:6D,MikroTik,Field
 4A:D9:E7,Ubiquiti Inc.,Field
-DE:0D:17,TP-Link Technologies Co. Ltd.,Field
 72:A7:41,Ubiquiti Inc.,Field
-B6:BE:76,TP-Link Technologies Co. Ltd.,Field
-56:D4:F7,TP-Link Technologies Co. Ltd.,Field
-DE:47:32,TP-Link Technologies Co. Ltd.,Field
 22:E8:29,Ubiquiti Inc.,Field
 7A:83:C2,Ubiquiti Inc.,Field
-AE:15:A2,TP-Link Technologies Co. Ltd.,Field
-EE:48:B8,TP-Link Technologies Co. Ltd.,Field
-FA:48:B8,TP-Link Technologies Co. Ltd.,Field
-9E:53:22,TP-Link Technologies Co. Ltd.,Field
 2A:E8:29,Ubiquiti Inc.,Field
 8A:2A:A8,Ubiquiti Inc.,Field
 26:E8:29,Ubiquiti Inc.,Field
@@ -1469,32 +1452,23 @@ FA:48:B8,TP-Link Technologies Co. Ltd.,Field
 92:2A:A8,Ubiquiti Inc.,Field
 8E:2A:A8,Ubiquiti Inc.,Field
 4E:D9:E7,Ubiquiti Inc.,Field
-12:27:F5,TP-Link Technologies Co. Ltd.,Field
 1A:E8:29,Ubiquiti Inc.,Field
 B6:FB:E4,Ubiquiti Inc.,Field
-42:ED:00,TP-Link Technologies Co. Ltd.,Field
 86:8A:20,Ubiquiti Inc.,Field
 82:8A:20,Ubiquiti Inc.,Field
 D2:21:F9,Ubiquiti Inc.,Field
-DE:07:B6,TP-Link Technologies Co. Ltd.,Field
 82:83:C2,Ubiquiti Inc.,Field
-1A:FD:74,MikroTik,Field
 82:2A:A8,Ubiquiti Inc.,Field
 7E:83:C2,Ubiquiti Inc.,Field
-76:DA:38,Edimax Technology,Field
 86:AC:B9,Ubiquiti Inc.,Field
 C2:FB:E4,Ubiquiti Inc.,Field
 7A:AC:B9,Ubiquiti Inc.,Field
 7E:AC:B9,Ubiquiti Inc.,Field
 BA:FB:E4,Ubiquiti Inc.,Field
 82:AC:B9,Ubiquiti Inc.,Field
-5E:A6:E6,TP-Link Technologies Co. Ltd.,Field
 BE:FB:E4,Ubiquiti Inc.,Field
-06:31:92,TP-Link Technologies Co. Ltd.,Field
-C2:06:C3,TP-Link Technologies Co. Ltd.,Field
 6A:D7:9A,Ubiquiti Inc.,Field
 86:83:C2,Ubiquiti Inc.,Field
-52:91:E3,TP-Link Corporation Limited,Field
 BA:8B:A9,Ubiquiti Inc.,Field
 BE:8B:A9,Ubiquiti Inc.,Field
 B6:8B:A9,Ubiquiti Inc.,Field
@@ -1519,20 +1493,47 @@ FA:9F:C2,Ubiquiti Inc.,Field
 7E:8A:20,Ubiquiti Inc.,Field
 F6:92:BF,Ubiquiti Inc.,Field
 DA:B3:70,Ubiquiti Inc.,Field
-56:0D:82,Fortinet Inc.,Field
-56:0D:81,Fortinet Inc.,Field
-AE:86:74,⁣⁣Open Mesh,Field
+1E:61:B4,TP-Link Technologies Co. Ltd.,Field
+7E:8C:B5,TP-Link Technologies Co. Ltd.,Field
+A2:53:22,TP-Link Technologies Co. Ltd.,Field
+AA:53:22,TP-Link Technologies Co. Ltd.,Field
+C6:06:C3,TP-Link Technologies Co. Ltd.,Field
+62:A4:B7,TP-Link Technologies Co. Ltd.,Field
+66:A4:B7,TP-Link Technologies Co. Ltd.,Field
+46:3F:8C,TP-Link Technologies Co. Ltd.,Field
+DE:0D:17,TP-Link Technologies Co. Ltd.,Field
+B6:BE:76,TP-Link Technologies Co. Ltd.,Field
+56:D4:F7,TP-Link Technologies Co. Ltd.,Field
+DE:47:32,TP-Link Technologies Co. Ltd.,Field
+AE:15:A2,TP-Link Technologies Co. Ltd.,Field
+EE:48:B8,TP-Link Technologies Co. Ltd.,Field
+FA:48:B8,TP-Link Technologies Co. Ltd.,Field
+9E:53:22,TP-Link Technologies Co. Ltd.,Field
+12:27:F5,TP-Link Technologies Co. Ltd.,Field
+42:ED:00,TP-Link Technologies Co. Ltd.,Field
+DE:07:B6,TP-Link Technologies Co. Ltd.,Field
+5E:A6:E6,TP-Link Technologies Co. Ltd.,Field
+06:31:92,TP-Link Technologies Co. Ltd.,Field
+C2:06:C3,TP-Link Technologies Co. Ltd.,Field
+52:91:E3,TP-Link Corporation Limited,Field
 52:22:54,TP-Link Corporation Limited,Field
 06:5F:67,TP-Link Corporation Limited,Field
 5E:62:8B,TP-Link Corporation Limited,Field
-16:49:BC,DrayTek Corp.,Field
+D6:CA:6D,MikroTik,Field
+1A:FD:74,MikroTik,Field
+56:0D:82,Fortinet Inc.,Field
+56:0D:81,Fortinet Inc.,Field
+AE:86:74,⁣⁣Open Mesh,Field
+76:DA:38,Edimax Technology,Field
 00:81:9B,Sky Uk Limited,Field
 7A:32:1B,D-Link International,Field
+16:49:BC,DrayTek Corp.,Field
 1E:49:BC,DrayTek Corp.,Field
 1A:49:BC,DrayTek Corp.,Field
 02:1D:AA,DrayTek Corp.,Field
 02:A0:57,Lancom Systems,Field
 E2:54:F1,Huawei Technologies,Field
+5E:B1:3E,Sagem Broadband,Field
 28:4E:E9,mercury corperation,Wireshark
 48:E5:33,Sunnovo International Limited,Wireshark
 4C:57:39,Samsung Electronics Co. Ltd,Wireshark
