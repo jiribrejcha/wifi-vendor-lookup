@@ -1316,6 +1316,7 @@ F2:9E:38,Cisco Meraki,Field
 3E:56:EE,Cisco Meraki,Field
 3A:56:EE,Cisco Meraki,Field
 26:56:EE,Cisco Meraki,Field
+32:8D:CB,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -1495,12 +1496,15 @@ FA:9F:C2,Ubiquiti Inc.,Field
 76:A7:41,Ubiquiti Inc.,Field
 7A:A7:41,Ubiquiti Inc.,Field
 7E:A7:41,Ubiquiti Inc.,Field
+FE:9F:C2,Ubiquiti Inc.,Field
+FA:9F:C2,Ubiquiti Inc.,Field
 56:0D:82,Fortinet Inc.,Field
 56:0D:81,Fortinet Inc.,Field
 AE:86:74,⁣⁣Open Mesh,Field
 7E:8A:20,Ubiquiti Inc.,Field
 F6:92:BF,Ubiquiti Inc.,Field
 52:22:54,TP-Link Corporation Limited,Field
+06:5F:67,TP-Link Corporation Limited,Field
 16:49:BC,DrayTek Corp.,Field
 00:81:9B,Sky Uk Limited,Field
 7A:32:1B,D-Link International,Field
@@ -1869,7 +1873,8 @@ C8:9F:0C,Motorola Mobility LLC a Lenovo Company,Wireshark
 88:5E:BD,NCKOREA Co.Ltd.,Wireshark
 3C:CD:73,Nebula Electronic Technology Corporation,Wireshark
 1C:7C:98,NEC Platforms Ltd.,Wireshark
-28:94:01,NETGEAR,Wireshark
+28:94:01,Netgear,Wireshark
+72:CD:D6,Netgear,Wireshark
 DC:65:55,New H3C Intelligence Terminal Co. Ltd.,Wireshark
 04:A9:59,New H3C Technologies Co. Ltd,Wireshark
 70:81:85,New H3C Technologies Co. Ltd,Wireshark
