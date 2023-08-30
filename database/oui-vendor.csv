@@ -1498,13 +1498,15 @@ FA:9F:C2,Ubiquiti Inc.,Field
 7E:A7:41,Ubiquiti Inc.,Field
 FE:9F:C2,Ubiquiti Inc.,Field
 FA:9F:C2,Ubiquiti Inc.,Field
+76:83:C2,Ubiquiti Inc.,Field
+7E:8A:20,Ubiquiti Inc.,Field
+F6:92:BF,Ubiquiti Inc.,Field
 56:0D:82,Fortinet Inc.,Field
 56:0D:81,Fortinet Inc.,Field
 AE:86:74,⁣⁣Open Mesh,Field
-7E:8A:20,Ubiquiti Inc.,Field
-F6:92:BF,Ubiquiti Inc.,Field
 52:22:54,TP-Link Corporation Limited,Field
 06:5F:67,TP-Link Corporation Limited,Field
+5E:62:8B,TP-Link Corporation Limited,Field
 16:49:BC,DrayTek Corp.,Field
 00:81:9B,Sky Uk Limited,Field
 7A:32:1B,D-Link International,Field
@@ -2041,6 +2043,7 @@ F0:A7:31,TP-Link Corporation Limited,Wireshark
 A8:42:A1,TP-Link Corporation Limited,Wireshark
 3C:52:A1,TP-Link Corporation Limited,Wireshark
 5C:E9:31,TP-Link Corporation Limited,Wireshark
+02:5F:67,TP-Link Corporation Limited,Field
 B8:F4:4F,u-blox AG,Wireshark
 58:76:B3,Ubee Interactive Co. Limited,Wireshark
 88:81:87,Umeox Innovations Co.Ltd,Wireshark
