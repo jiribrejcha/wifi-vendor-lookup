@@ -1328,6 +1328,7 @@ A2:46:8D,Cisco Meraki,Field
 AA:46:8D,Cisco Meraki,Field
 9E:18:88,Cisco Meraki,Field
 A6:18:88,Cisco Meraki,Field
+FE:9E:28,Cisco Meraki,Field
 4C:D5:87,Aruba a Hewlett Packard Enterprise Company,Wireshark
 98:8F:00,Aruba a Hewlett Packard Enterprise Company,Wireshark
 A0:25:D7,Aruba a Hewlett Packard Enterprise Company,Wireshark
@@ -1434,9 +1435,13 @@ EE:63:DA,Ubiquiti Inc.,Field
 EA:63:DA,Ubiquiti Inc.,Field
 1E:61:B4,TP-Link Technologies Co. Ltd.,Field
 7E:8C:B5,TP-Link Technologies Co. Ltd.,Field
+A2:53:22,TP-Link Technologies Co. Ltd.,Field
+AA:53:22,TP-Link Technologies Co. Ltd.,Field
+C6:06:C3,TP-Link Technologies Co. Ltd.,Field
 E6:63:DA,Ubiquiti Inc.,Field
 FA:92:BF,Ubiquiti Inc.,Field
 F2:63:DA,Ubiquiti Inc.,Field
+E2:63:DA,Ubiquiti Inc.,Field
 62:A4:B7,TP-Link Technologies Co. Ltd.,Field
 FE:92:BF,Ubiquiti Inc.,Field
 7E:45:58,Ubiquiti Inc.,Field
@@ -1513,6 +1518,7 @@ FA:9F:C2,Ubiquiti Inc.,Field
 76:83:C2,Ubiquiti Inc.,Field
 7E:8A:20,Ubiquiti Inc.,Field
 F6:92:BF,Ubiquiti Inc.,Field
+DA:B3:70,Ubiquiti Inc.,Field
 56:0D:82,Fortinet Inc.,Field
 56:0D:81,Fortinet Inc.,Field
 AE:86:74,⁣⁣Open Mesh,Field
@@ -24215,6 +24221,7 @@ F4:E8:4F,zte corporation,Wireshark
 78:D1:29,Vicos,Wireshark
 78:D1:62,Apple Inc.,Wireshark
 78:D2:94,Netgear,Wireshark
+86:D2:94,Netgear,Field
 78:D3:47,Ericsson AB,Wireshark
 78:D3:4F,Pace-O-Matic Inc.,Wireshark
 78:D3:8D,Hongkong Yunlink Technology Limited,Wireshark
@@ -24313,7 +24320,9 @@ F4:E8:4F,zte corporation,Wireshark
 7C:0C:92,Suzhou Mobydata Smart System Co. Ltd.,Wireshark
 7C:0C:F6,Guangdong Huiwei High-tech Co. Ltd.,Wireshark
 7C:10:15,Brilliant Home Technology Inc.,Wireshark
-7C:10:C9,ASUSTek COMPUTER INC.,Wireshark
+7C:10:C9,ASUSTek Computer Inc.,Wireshark
+B2:10:C9,ASUSTek Computer Inc.,Field
+82:10:C9,ASUSTek Computer Inc.,Field
 7C:11:BE,Apple Inc.,Wireshark
 7C:11:CB,Huawei Technologies Co. Ltd,Wireshark
 7C:11:CD,QianTang Technology,Wireshark
