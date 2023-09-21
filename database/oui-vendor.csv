@@ -1456,6 +1456,9 @@ FE:92:BF,Ubiquiti Inc.,Field
 B6:FB:E4,Ubiquiti Inc.,Field
 86:8A:20,Ubiquiti Inc.,Field
 82:8A:20,Ubiquiti Inc.,Field
+8A:8A:20,Ubiquiti Inc.,Field
+8E:8A:20,Ubiquiti Inc.,Field
+DE:21:F9,Ubiquiti Inc.,Field
 D2:21:F9,Ubiquiti Inc.,Field
 82:83:C2,Ubiquiti Inc.,Field
 82:2A:A8,Ubiquiti Inc.,Field
@@ -22072,6 +22075,9 @@ F4:E8:4F,zte corporation,Wireshark
 60:21:C0,Murata Manufacturing Co. Ltd.,Wireshark
 60:22:32,Ubiquiti Inc,Wireshark
 62:22:32,Ubiquiti Inc,Field
+66:22:32,Ubiquiti Inc,Field
+6A:22:32,Ubiquiti Inc,Field
+6E:22:32,Ubiquiti Inc,Field
 60:23:A4,Sichuan AI-Link Technology Co. Ltd.,Wireshark
 60:24:C1,Jiangsu Zhongxun Electronic Technology Co. Ltd,Wireshark
 60:27:1C,VIDEOR E. Hartig GmbH,Wireshark
@@ -31001,6 +31007,8 @@ D0:1C:BB,Beijing Ctimes Digital Technology Co. Ltd.,Wireshark
 D0:1E:1D,SaiNXT Technologies LLP,Wireshark
 D0:21:AC,Yohana,Wireshark
 D0:21:F9,Ubiquiti Inc,Wireshark
+DA:21:F9,Ubiquiti Inc,Field
+D6:21:F9,Ubiquiti Inc,Field
 D0:22:12,IEEE Registration Authority,Wireshark
 D0:22:BE,Samsung Electro-Mechanics(Thailand),Wireshark
 D0:23:DB,Apple Inc.,Wireshark
