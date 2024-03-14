@@ -1430,6 +1430,7 @@ BC:0F:FE,Juniper Networks,Wireshark
 A8:0B:FB,Ruckus Wireless,Wireshark
 06:92:BF,Ubiquiti Inc.,Field
 82:45:58,Ubiquiti Inc.,Field
+8A:45:58,Ubiquiti Inc.,Field
 EE:63:DA,Ubiquiti Inc.,Field
 EA:63:DA,Ubiquiti Inc.,Field
 E6:63:DA,Ubiquiti Inc.,Field
@@ -1486,6 +1487,7 @@ FA:9F:C2,Ubiquiti Inc.,Field
 72:A7:41,Ubiquiti Inc.,Field
 FA:9F:C2,Ubiquiti Inc.,Field
 26:5A:4C,Ubiquiti Inc.,Field
+2A:5A:4C,Ubiquiti Inc.,Field
 96:83:C2,Ubiquiti Inc.,Field
 76:A7:41,Ubiquiti Inc.,Field
 7A:A7:41,Ubiquiti Inc.,Field
@@ -1495,6 +1497,7 @@ FA:9F:C2,Ubiquiti Inc.,Field
 76:83:C2,Ubiquiti Inc.,Field
 7E:8A:20,Ubiquiti Inc.,Field
 F6:92:BF,Ubiquiti Inc.,Field
+0A:92:BF,Ubiquiti Inc.,Field
 DA:B3:70,Ubiquiti Inc.,Field
 1E:61:B4,TP-Link Technologies Co. Ltd.,Field
 7E:8C:B5,TP-Link Technologies Co. Ltd.,Field
